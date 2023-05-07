@@ -1,0 +1,29 @@
+INFO: Classes for registry class minetweaker.mods.ic2.ClassRegistry not found, skipping
+INFO: Loaded class registry: NEI mod support
+INFO: Loaded class registry: MFR mod support
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command tooltips
+INFO: 
+INFO: Adding minetweaker command appeng
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command modifiers
+INFO: Adding minetweaker command tconstruct
+INFO: Adding minetweaker command thermalexpansion
+INFO: Adding minetweaker command mfr
+ERROR: aegis_recipes.zs:12: Could not resolve <165 : 0>
+ERROR: aegis_recipes.zs:13: Could not resolve <165 : 1>
+ERROR: aegis_recipes.zs:14: Could not resolve <165 : 2>
+INFO: Adding recipe for Iron Leggings
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
