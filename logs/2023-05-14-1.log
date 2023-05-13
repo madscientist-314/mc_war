@@ -1,0 +1,760 @@
+[00:05:27] [Client thread/INFO]: InvTweaks: net.minecraft.client.gui.GuiTextField
+[00:05:27] [Client thread/INFO]: InvTweaks: successfully transformed setFocused/func_146195_b
+[00:05:37] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[00:05:37] [Server thread/INFO]: Generating keypair
+[00:05:37] [Server thread/INFO]: [minetweaker.runtime.MTTweaker:load:111]: Loading scripts
+[00:05:37] [Server thread/INFO]: [minetweaker.runtime.MTTweaker:load:158]: MineTweaker: Loading aegis_recipes.zs
+[00:05:37] [Server thread/INFO]: [minetweaker.runtime.MTTweaker:load:158]: MineTweaker: Loading intermod
+[00:05:37] [Server thread/WARN]: FMLServerStartingEvent occurred when FMLServerStoppingEvent hasn't
+[00:05:37] [Server thread/ERROR]: Fatal errors were detected during the transition from AVAILABLE to SERVER_ABOUT_TO_START. Loading cannot continue
+[00:05:37] [Server thread/ERROR]: 
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJAAAA	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJAAAA	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAA	Forge{10.13.4.1614} [Minecraft Forge] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAA	appliedenergistics2-core{rv3-beta-6} [Applied Energistics 2 Core] (minecraft.jar) 
+	UCHIJAAAA	CodeChickenCore{1.0.7.48} [CodeChicken Core] (minecraft.jar) 
+	UCHIJAAAA	itemphysic{1.1.5} [ItemPhysic] (minecraft.jar) 
+	UCHIJAAAA	ivtoolkit{1.2.1} [IvToolkit] (minecraft.jar) 
+	UCHIJAAAA	Micdoodlecore{} [Micdoodle8 Core] (minecraft.jar) 
+	UCHIJAAAA	NotEnoughItems{1.0.5.120} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.5.120-universal.jar) 
+	UCHIJAAAA	OpenComputers|Core{1.8.0} [OpenComputers (Core)] (minecraft.jar) 
+	UCHIJAAAA	PlayerAPI{1.4} [Player API] (minecraft.jar) 
+	UCHIJAAAA	xaeroworldmap_core{1.7.10-1.0} [XaeroWorldMapCore] (minecraft.jar) 
+	UCHIJAAAA	<CoFH ASM>{000} [CoFH ASM] (minecraft.jar) 
+	UCHIJAAAA	FoamFixCore{1.0.4} [FoamFixCore] (minecraft.jar) 
+	UCHIJAAAA	FastCraft{1.25} [FastCraft] (fastcraft-1.25.jar) 
+	UCHIJAAAA	debug{1.0} [debug] (denseores-1.6.2.jar) 
+	UCHIJAAAA	securitycraft{v1.8.13} [SecurityCraft] ([1.7.10] SecurityCraft v1.8.13.jar) 
+	UCHIJAAAA	act{0.0.2a_1.7.10} [AdminCommandsToolbox] (AdminCommandsToolbox-0.0.2a_1.7.10.jar) 
+	UCHIJAAAA	appliedenergistics2{rv3-beta-6} [Applied Energistics 2] (appliedenergistics2-rv3-beta-6.jar) 
+	UCHIJAAAA	bdlib{1.9.4.109} [BD Lib] (bdlib-1.9.4.109-mc1.7.10.jar) 
+	UCHIJAAAA	ae2stuff{0.5.0.56} [AE2 Stuff] (ae2stuff-0.5.0.56-mc1.7.10.jar) 
+	UCHIJAAAA	AppleCore{3.1.1} [AppleCore] (AppleCore-mc1.7.10-3.1.1.jar) 
+	UCHIJAAAA	MovingWorld{1.7.10-1.8.1} [Moving World] (movingworld-1.7.10-1.8.1.jar) 
+	UCHIJAAAA	ArchimedesShipsPlus{1.7.10-1.8.1} [Archimedes' Ships Plus] (archimedesshipsplus-1.7.10-1.8.1.jar) 
+	UCHIJAAAA	AegisSystemMod{1.5.7a} [Aegis System Mod] (ASM-[1.7.10]-1.5.7a-single-obfuscated.jar) 
+	UCHIJAAAA	BiblioCraft{1.11.7} [BiblioCraft] (BiblioCraft[v1.11.7][MC1.7.10].jar) 
+	UCHIJAAAA	BiomesOPlenty{2.1.0} [Biomes O' Plenty] (BiomesOPlenty-1.7.10-2.1.0.1889-universal.jar) 
+	UCHIJAAAA	BiblioWoodsBoP{1.9} [BiblioWoods Biomes O'Plenty Edition] (BiblioWoods[BiomesOPlenty][v1.9].jar) 
+	UCHIJAAAA	ForgeMultipart{1.2.0.345} [Forge Multipart] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+	UCHIJAAAA	chisel{2.9.5.11} [Chisel] (Chisel-2.9.5.11.jar) 
+	UCHIJAAAA	CarpentersBlocks{3.3.8.2} [Carpenter's Blocks] (Carpenter's Blocks v3.3.8.2 - MC 1.7.10.jar) 
+	UCHIJAAAA	climatecontrol{0.8.1} [Climate Control] (ClimateControl-0.8.2.jar) 
+	UCHIJAAAA	CoFHCore{1.7.10R3.1.4} [CoFH Core] (CoFHCore-[1.7.10]3.1.4-329.jar) 
+	UCHIJAAAA	controlling{1.7.10-1.0.0.4} [Controlling] (Controlling-1.7.10-1.0.0.4.jar) 
+	UCHIJAAAA	cosmeticarmorreworked{1.7.10-v7} [CosmeticArmorReworked] (CosmeticArmorReworked-1.7.10-v7.jar) 
+	UCHIJAAAA	craftingtweaks{1.0.88} [Crafting Tweaks] (craftingtweaks-mc1.7.10-1.0.88.jar) 
+	UCHIJAAAA	craftpresence{2.0.0-rc.3} [CraftPresence] (CraftPresence-2.0.0-rc.3+1.7.10.jar) 
+	UCHIJAAAA	MineTweaker3{3.1.0} [MineTweaker 3] (CraftTweaker-1.7.10-3.1.0-legacy.jar) 
+	UCHIJAAAA	creativecore{1.3.14} [CreativeCore] (CreativeCore v1.3.24 mc1.7.10.jar) 
+	UCHIJAAAA	PTRModelLib{1.0.0} [PTRModelLib] (Decocraft-2.4.2_1.7.10.jar) 
+	UCHIJAAAA	props{2.4.2} [Decocraft] (Decocraft-2.4.2_1.7.10.jar) 
+	UCHIJAAAA	ImmibisCore{59.1.4} [Immibis Core] (Immibis-Core-1.7.10.jar) 
+	UCHIJAAAA	DimensionalAnchors{59.0.3} [Dimensional Anchors] (dimensional-anchor-59.0.3.jar) 
+	UCHIJAAAA	Ding{MC1.7.10v2} [Ding] (Ding-MC1.7.10v2.jar) 
+	UCHIJAAAA	Emotes{1.0} [Emotes] (Emotes 1.0.1.jar) 
+	UCHIJAAAA	endercore{1.7.10-0.2.0.39_beta} [EnderCore] (EnderCore-1.7.10-0.2.0.39_beta.jar) 
+	UCHIJAAAA	Waila{1.5.10} [Waila] (Waila-1.5.10_1.7.10.jar) 
+	UCHIJAAAA	EnderIO{1.7.10-2.3.0.429_beta} [Ender IO] (EnderIO-1.7.10-2.3.0.429_beta.jar) 
+	UCHIJAAAA	energycontrol{1.7.10-0.3.4} [Energy Control] (EnergyControl-1.7.10-0.3.4.jar) 
+	UCHIJAAAA	erde{1.0c} [Entity Render Extender] (EntityRenderDistanceExtender-1.0c.jar) 
+	UCHIJAAAA	extrabuttons{1.7.10.1} [ExtraButtons] (ExtraButtons-1.7.10.1.jar) 
+	UCHIJAAAA	extracells{2.4.0} [Extra Cells 2] (ExtraCells-1.7.10-2.4.0.jar) 
+	UCHIJAAAA	Mantle{1.7.10-0.3.2.jenkins191} [Mantle] (Mantle-1.7.10-0.3.2b.jar) 
+	UCHIJAAAA	ThermalFoundation{1.7.10R1.2.6} [Thermal Foundation] (ThermalFoundation-[1.7.10]1.2.6-118.jar) 
+	UCHIJAAAA	ExtraUtilities{1.2.12} [Extra Utilities] (extrautilities-1.2.12.jar) 
+	UCHIJAAAA	ImmersiveEngineering{0.7.7} [Immersive Engineering] (ImmersiveEngineering-0.7.7.jar) 
+	UCHIJAAAA	thermaltinkering{1.0} [Thermal Tinkering] (ThermalTinkering-1.7.10-1.2.1.jar) 
+	UCHIJAAAA	ThermalExpansion{1.7.10R4.1.5} [Thermal Expansion] (ThermalExpansion-[1.7.10]4.1.5-248.jar) 
+	UCHIJAAAA	TConstruct{1.7.10-1.8.8.build988} [Tinkers' Construct] (TConstruct-1.7.10-1.8.8.jar) 
+	UCHIJAAAA	GalacticraftCore{3.0.12} [Galacticraft Core] (GalacticraftCore-1.7-3.0.12.504.jar) 
+	UCHIJAAAA	GalacticraftMars{3.0.12} [Galacticraft Planets] (Galacticraft-Planets-1.7-3.0.12.504.jar) 
+	UCHIJAAAA	ExtraPlanets{1.7.10-2.1.4} [Extra Planets] (ExtraPlanets-1.7.10-2.1.4.jar) 
+	UCHIJAAAA	harvestcraft{1.7.10j} [Pam's HarvestCraft] (Pam's HarvestCraft 1.7.10Lb.jar) 
+	UCHIJAAAA	ExtraTiC{1.4.6} [ExtraTiC] (ExtraTiC-1.7.10-1.4.6.jar) 
+	UCHIJAAAA	fastleafdecay{1.4} [Fast Leaf Decay] (FastLeafDecay-1.7.10-1.4.jar) 
+	UCHIJAAAA	flenixroads{0.10.0} [FlenixRoads] (FlenixRoads_[1.7.10]-0.10.0-b40.jar) 
+	UCHIJAAAA	foamfix{@VERSION@} [FoamFix] (FoamFix-1.7.10-universal-1.0.4.jar) 
+	UCHIJAAAA	McMultipart{1.2.0.345} [Minecraft Multipart Plugin] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+	UCHIJAAEE	gvc{0.6.1} [§aGliby's§f Voice Chat Mod] (GlibysVC-1.7.10-0.6.2a.jar) 
+	UCHIJAAAA	gravestone{0.7.10.3} [Gravestone] (GraveStone Mod 0.7.10.3.jar) 
+	UCHIJAAAA	hbm{1.0.27 BETA (4522)} [Hbm's Nuclear Tech] (HBM-NTM-[1.0.27_X4522].jar) 
+	UCHIJAAAA	hidenames{1.1.7} [Hide Names] (Hide Names-1.7.10-1.1.8.jar) 
+	UCHIJAAAA	immersiveintegration{0.6.8} [Immersive Integration] (immersiveintegration-0.6.8.jar) 
+	UCHIJAAAA	inventorytweaks{1.59-dev-152-cf6e263} [Inventory Tweaks] (InventoryTweaks-1.59-dev-152.jar) 
+	UCHIJAAAA	ironbackpacks{1.7.10-1.2.20} [Iron Backpacks] (IronBackpacks-1.7.10-1.2.20.jar) 
+	UCHIJAAAA	IronChest{6.0.62.742} [Iron Chest] (ironchest-1.7.10-6.0.62.742-universal.jar) 
+	UCHIJAAAA	jadednei{1.0.3} [JadedNEI] (JadedNEI-1.7.10-1.0.3.jar) 
+	UCHIJAAAA	kleeslabs{1.0} [KleeSlabs] (kleeslabs-mc1.7.10-1.2.9.jar) 
+	UCHIJAAAA	malisiscore{1.7.10-0.14.3} [MalisisCore] (malisiscore-1.7.10-0.14.3.jar) 
+	UCHIJAAAA	malisisdoors{1.7.10-1.13.2} [Malisis' Doors] (malisisdoors-1.7.10-1.13.2.jar) 
+	UCHIJAAAA	mcheli{1.0.3} [MC Helicopter] (mcheli) 
+	UCHIJAAAA	mchelishield{1.0.1} [MC Heli Privacy Shield] (McHeliPrivacyShield-1.7.10-1.0.1-universal.jar) 
+	UCHIJAAAA	mimic18{1} [mimic18] (MimicMinecraft18-1.7.10-1.0.0.jar) 
+	UCHIJAAAA	MTRM{1.0} [MineTweakerRecipeMaker] (MineTweakerRecipeMaker-1.7.10-1.1.1.jar) 
+	UCHIJAAAA	testdummy{1.0} [MmmMmmMmmMmm] (MmmMmmMmmMmm-1.7.10-1.9.jar) 
+	UCHIJAAAA	modtweaker2{0.9.6} [Mod Tweaker 2] (ModTweaker2-0.9.6.jar) 
+	UCHIJAAAA	Morpheus{1.7.10-1.6.21} [Morpheus] (Morpheus-1.7.10-1.6.21.jar) 
+	UCHIJAAAA	MouseTweaks{2.4.4} [Mouse Tweaks] (MouseTweaks-2.4.4-mc1.7.10.jar) 
+	UCHIJAAAA	cfm{3.4.7} [§9MrCrayfish's Furniture Mod] (MrCrayfishFurnitureModv3.4.7(1.7.10).jar) 
+	UCHIJAAAA	MTUtils{1.6} [MTUtils] (MTUtils-1.6.jar) 
+	UCHIJAAAA	mw{1.11.7.7} [Modern Warfare] (mw-1.11.7.7_mc1.7.10.jar) 
+	UCHIJAAAA	NEIAddons{1.12.14.40} [NEI Addons] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAA	NEIAddons|Developer{1.12.14.40} [NEI Addons: Developer Tools] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAA	NEIAddons|AppEng{1.12.14.40} [NEI Addons: Applied Energistics 2] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAA	NEIAddons|Botany{1.12.14.40} [NEI Addons: Botany] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAA	NEIAddons|Forestry{1.12.14.40} [NEI Addons: Forestry] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAA	NEIAddons|CraftingTables{1.12.14.40} [NEI Addons: Crafting Tables] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAA	NEIAddons|ExNihilo{1.12.14.40} [NEI Addons: Ex Nihilo] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAA	neirecipehandlers{1.1.0-BETA} [NEI Recipe Handlers] (neiRecipeHandlers-1.1.0-BETA.jar) 
+	UCHIJAAAA	recipehandler{1.7.10} [NoMoreRecipeConflict] (NoMoreRecipeConflict-1.7.10-0.3.2.jar) 
+	UCHIJAAAA	p455w0rdslib{1.0.4} [p455w0rd's Library] (p455w0rdslib-1.7.10-1.0.4.jar) 
+	UCHIJAAAA	ae2wct{1.7.10-rv3-1.8.7.4b} [AE2 Wireless Crafting Terminal] (WirelessCraftingTerminal-1.7.10-rv3-1.8.7.4b.jar) 
+	UCHIJAAAA	neenergistics{@VERSION@} [NotEnoughEnergistics] (NotEnoughEnergistics-1.7.10-1.4.2.jar) 
+	UCHIJAAAA	notenoughkeys{@MOD_VERSION@} [NotEnoughKeys] (NotEnoughKeys-1.7.10-3.0.0b45-dev-universal.jar) 
+	UCHIJAAAA	neresources{0.1.0.ManuallyBuilt} [Not Enough Resources] (NotEnoughResources-1.7.10-0.1.0-122.jar) 
+	UCHIJAAAA	OpenComputers{1.8.0} [OpenComputers] (OpenComputers-MC1.7.10-1.8.0+8fb006a-universal.jar) 
+	UCHIJAAAA	openfm{0.1.0.45} [OpenFM] (OpenFM-1.7.10-0.1.0-45.jar) 
+	UCHIJAAAA	openlights{0.1.0.22} [OpenLights] (OpenLights-MC1.7.10-OC1.4-0.1.0.22.jar) 
+	UCHIJAAAA	openmodularturrets{2.2.11-245} [Open Modular Turrets] (OpenModularTurrets-1.7.10-2.2.11-245.jar) 
+	UCHIJAAAA	opensecurity{1.0.117} [OpenSecurity] (OpenSecurity-1.7.10-1.0-117.jar) 
+	UCHIJAAAA	opensensors{1.0.5} [OpenSensors] (OpenSensors-MC1.7.10-1.0-5.jar) 
+	UCHIJAAAA	oreexcavation{1.1.134} [OreExcavation] (OreExcavation-1.1.134.jar) 
+	UCHIJAAAA	reauth{4.0.7} [ReAuth] (ReAuth-1.7.10-Forge-4.0.7.jar) 
+	UCHIJAAAA	shouldersurfing{2.3.2} [Shoulder Surfing] (ShoulderSurfing-1.7.10-2.3.2.jar) 
+	UCHIJAAAA	sit{v1.1} [Sit] (sit-1.7.10-v1.1.jar) 
+	UCHIJAAAA	SmartRender{2.1} [Smart Render] (SmartRender-1.7.10-2.1.jar) 
+	UCHIJAAAA	SolarFlux{1.7.10-0.8b} [Solar Flux] (SolarFlux-1.7.10-0.8b.jar) 
+	UCHIJAAAA	spark{1.10.35} [spark] (spark-1.10.19-forge1710.jar) 
+	UCHIJAAAA	StorageDrawers{1.7.10-1.10.9} [Storage Drawers] (StorageDrawers-1.7.10-1.10.9.jar) 
+	UCHIJAAAA	StorageDrawersBop{1.7.10-1.1.1} [Storage Drawers: Biomes O' Plenty Pack] (StorageDrawers-BiomesOPlenty-1.7.10-1.1.1.jar) 
+	UCHIJAAAA	StorageDrawersMisc{1.7.10-1.1.2} [Storage Drawers: Misc Pack] (StorageDrawers-Misc-1.7.10-1.1.2.jar) 
+	UCHIJAAAA	teamup{1.1.3:1.7.10} [Team Up] (TeamUp-1.1.3-1.7.10.jar) 
+	UCHIJAAAA	ThermalCasting{0.0.3} [Thermal Casting] (thermalcasting-0.0.3.jar) 
+	UCHIJAAAA	ThermalDynamics{1.7.10R1.2.1} [Thermal Dynamics] (ThermalDynamics-[1.7.10]1.2.1-172.jar) 
+	UCHIJAAAA	ThermalSmeltery{1.0} [Thermal Smeltery] (ThermalSmeltery-1.3.1.4.jar) 
+	UCHIJAAAA	TMechworks{0.2.15.106} [Tinkers' Mechworks] (TMechworks-1.7.10-0.2.15.106.jar) 
+	UCHIJAAAA	trackapi{1.2} [Track API] (TrackAPI-1.2.jar) 
+	UCHIJAAAA	universalmodcore{1.1.4} [UniversalModCore] (UniversalModCore-1.7.10-forge-1.1.4-899c85.jar) 
+	UCHIJAAAA	WailaHarvestability{1.1.6} [Waila Harvestability] (WailaHarvestability-mc1.7.10-1.1.6.jar) 
+	UCHIJAAAA	wailaplugins{MC1.7.10-0.2.0-25} [WAILA Plugins] (WAILAPlugins-MC1.7.10-0.2.0-25.jar) 
+	UCHIJAAAA	warstuff{1.3} [WarStuff] (warstuff_mod_1.7.10.jar) 
+	UCHIJAAAA	worldedit{6.1.1} [WorldEdit] (worldedit-forge-mc1.7.10-6.1.1-dist.jar) 
+	UCHIJAAAA	XaeroWorldMap{1.14.1.23} [Xaero's World Map] (XaerosWorldMap_1.14.1.24_Forge_1.7.10.jar) 
+	UCHIJAAAA	yegamolchattels{1.1.2} [Ye Gamol Chattels] (YeGamolChattels-1.1.2.jar) 
+	UCHIJAAAA	denseores{1.0} [Dense Ores] (denseores-1.6.2.jar) 
+	UCHIJAAAA	ForgeMicroblock{1.2.0.345} [Forge Microblocks] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+[00:05:37] [Server thread/ERROR]: The following problems were captured during this phase
+[00:05:37] [Server thread/ERROR]: Caught exception from gvc
+java.lang.NullPointerException
+	at net.gliby.voicechat.common.VoiceChatServer.stop(VoiceChatServer.java:194) ~[VoiceChatServer.class:?]
+	at net.gliby.voicechat.VoiceChat.stopServer(VoiceChat.java:120) ~[VoiceChat.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) ~[LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) ~[LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) ~[LoadController.class:?]
+	at cpw.mods.fml.common.Loader.serverStopped(Loader.java:850) ~[Loader.class:?]
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerStopped(FMLCommonHandler.java:483) ~[FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:489) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [?:?]
+[00:05:37] [Server thread/ERROR]: A fatal exception occurred during the server about to start event
+java.lang.NullPointerException
+	at net.gliby.voicechat.common.VoiceChatServer.stop(VoiceChatServer.java:194) ~[VoiceChatServer.class:?]
+	at net.gliby.voicechat.VoiceChat.stopServer(VoiceChat.java:120) ~[VoiceChat.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) ~[LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) ~[LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) ~[LoadController.class:?]
+	at cpw.mods.fml.common.Loader.serverStopped(Loader.java:850) ~[Loader.class:?]
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerStopped(FMLCommonHandler.java:483) ~[FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:489) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [?:?]
+[00:05:37] [Server thread/INFO]: Applying holder lookups
+[00:05:37] [Server thread/INFO]: Holder lookups applied
+[00:05:37] [pool-12-thread-1/INFO]: ServerChannelRegister: Dimensional Transceiver data saved to C:\Users\tomki\curseforge\minecraft\Instances\mc_war DEV\saves\New World-\enderio\dimensionalTransceiver.json
+[00:05:37] [Server thread/WARN]: Error handling file saving: Did the server never start?
+[00:05:37] [Server thread/INFO]: The state engine was in incorrect state ERRORED and forced into state SERVER_STOPPED. Errors may have been discarded.
+[00:05:37] [Server thread/INFO]: The state engine was in incorrect state ERRORED and forced into state AVAILABLE. Errors may have been discarded.
+[00:05:57] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[00:05:57] [Server thread/INFO]: Generating keypair
+[00:05:58] [Server thread/INFO]: [minetweaker.runtime.MTTweaker:load:111]: Loading scripts
+[00:05:58] [Server thread/INFO]: [minetweaker.runtime.MTTweaker:load:158]: MineTweaker: Loading aegis_recipes.zs
+[00:05:58] [Server thread/INFO]: [minetweaker.runtime.MTTweaker:load:158]: MineTweaker: Loading intermod
+[00:05:58] [Server thread/WARN]: FMLServerStartingEvent occurred when FMLServerStoppingEvent hasn't
+[00:05:58] [Server thread/ERROR]: Fatal errors were detected during the transition from AVAILABLE to SERVER_ABOUT_TO_START. Loading cannot continue
+[00:05:58] [Server thread/ERROR]: 
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJAAAAAA	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJAAAAAA	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAAAA	Forge{10.13.4.1614} [Minecraft Forge] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAAAA	appliedenergistics2-core{rv3-beta-6} [Applied Energistics 2 Core] (minecraft.jar) 
+	UCHIJAAAAAA	CodeChickenCore{1.0.7.48} [CodeChicken Core] (minecraft.jar) 
+	UCHIJAAAAAA	itemphysic{1.1.5} [ItemPhysic] (minecraft.jar) 
+	UCHIJAAAAAA	ivtoolkit{1.2.1} [IvToolkit] (minecraft.jar) 
+	UCHIJAAAAAA	Micdoodlecore{} [Micdoodle8 Core] (minecraft.jar) 
+	UCHIJAAAAAA	NotEnoughItems{1.0.5.120} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.5.120-universal.jar) 
+	UCHIJAAAAAA	OpenComputers|Core{1.8.0} [OpenComputers (Core)] (minecraft.jar) 
+	UCHIJAAAAAA	PlayerAPI{1.4} [Player API] (minecraft.jar) 
+	UCHIJAAAAAA	xaeroworldmap_core{1.7.10-1.0} [XaeroWorldMapCore] (minecraft.jar) 
+	UCHIJAAAAAA	<CoFH ASM>{000} [CoFH ASM] (minecraft.jar) 
+	UCHIJAAAAAA	FoamFixCore{1.0.4} [FoamFixCore] (minecraft.jar) 
+	UCHIJAAAAAA	FastCraft{1.25} [FastCraft] (fastcraft-1.25.jar) 
+	UCHIJAAAAAA	debug{1.0} [debug] (denseores-1.6.2.jar) 
+	UCHIJAAAAAA	securitycraft{v1.8.13} [SecurityCraft] ([1.7.10] SecurityCraft v1.8.13.jar) 
+	UCHIJAAAAAA	act{0.0.2a_1.7.10} [AdminCommandsToolbox] (AdminCommandsToolbox-0.0.2a_1.7.10.jar) 
+	UCHIJAAAAAA	appliedenergistics2{rv3-beta-6} [Applied Energistics 2] (appliedenergistics2-rv3-beta-6.jar) 
+	UCHIJAAAAAA	bdlib{1.9.4.109} [BD Lib] (bdlib-1.9.4.109-mc1.7.10.jar) 
+	UCHIJAAAAAA	ae2stuff{0.5.0.56} [AE2 Stuff] (ae2stuff-0.5.0.56-mc1.7.10.jar) 
+	UCHIJAAAAAA	AppleCore{3.1.1} [AppleCore] (AppleCore-mc1.7.10-3.1.1.jar) 
+	UCHIJAAAAAA	MovingWorld{1.7.10-1.8.1} [Moving World] (movingworld-1.7.10-1.8.1.jar) 
+	UCHIJAAAAAA	ArchimedesShipsPlus{1.7.10-1.8.1} [Archimedes' Ships Plus] (archimedesshipsplus-1.7.10-1.8.1.jar) 
+	UCHIJAAAAAA	AegisSystemMod{1.5.7a} [Aegis System Mod] (ASM-[1.7.10]-1.5.7a-single-obfuscated.jar) 
+	UCHIJAAAAAA	BiblioCraft{1.11.7} [BiblioCraft] (BiblioCraft[v1.11.7][MC1.7.10].jar) 
+	UCHIJAAAAAA	BiomesOPlenty{2.1.0} [Biomes O' Plenty] (BiomesOPlenty-1.7.10-2.1.0.1889-universal.jar) 
+	UCHIJAAAAAA	BiblioWoodsBoP{1.9} [BiblioWoods Biomes O'Plenty Edition] (BiblioWoods[BiomesOPlenty][v1.9].jar) 
+	UCHIJAAAAAA	ForgeMultipart{1.2.0.345} [Forge Multipart] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+	UCHIJAAAAAA	chisel{2.9.5.11} [Chisel] (Chisel-2.9.5.11.jar) 
+	UCHIJAAAAAA	CarpentersBlocks{3.3.8.2} [Carpenter's Blocks] (Carpenter's Blocks v3.3.8.2 - MC 1.7.10.jar) 
+	UCHIJAAAAAA	climatecontrol{0.8.1} [Climate Control] (ClimateControl-0.8.2.jar) 
+	UCHIJAAAAAA	CoFHCore{1.7.10R3.1.4} [CoFH Core] (CoFHCore-[1.7.10]3.1.4-329.jar) 
+	UCHIJAAAAAA	controlling{1.7.10-1.0.0.4} [Controlling] (Controlling-1.7.10-1.0.0.4.jar) 
+	UCHIJAAAAAA	cosmeticarmorreworked{1.7.10-v7} [CosmeticArmorReworked] (CosmeticArmorReworked-1.7.10-v7.jar) 
+	UCHIJAAAAAA	craftingtweaks{1.0.88} [Crafting Tweaks] (craftingtweaks-mc1.7.10-1.0.88.jar) 
+	UCHIJAAAAAA	craftpresence{2.0.0-rc.3} [CraftPresence] (CraftPresence-2.0.0-rc.3+1.7.10.jar) 
+	UCHIJAAAAAA	MineTweaker3{3.1.0} [MineTweaker 3] (CraftTweaker-1.7.10-3.1.0-legacy.jar) 
+	UCHIJAAAAAA	creativecore{1.3.14} [CreativeCore] (CreativeCore v1.3.24 mc1.7.10.jar) 
+	UCHIJAAAAAA	PTRModelLib{1.0.0} [PTRModelLib] (Decocraft-2.4.2_1.7.10.jar) 
+	UCHIJAAAAAA	props{2.4.2} [Decocraft] (Decocraft-2.4.2_1.7.10.jar) 
+	UCHIJAAAAAA	ImmibisCore{59.1.4} [Immibis Core] (Immibis-Core-1.7.10.jar) 
+	UCHIJAAAAAA	DimensionalAnchors{59.0.3} [Dimensional Anchors] (dimensional-anchor-59.0.3.jar) 
+	UCHIJAAAAAA	Ding{MC1.7.10v2} [Ding] (Ding-MC1.7.10v2.jar) 
+	UCHIJAAAAAA	Emotes{1.0} [Emotes] (Emotes 1.0.1.jar) 
+	UCHIJAAAAAA	endercore{1.7.10-0.2.0.39_beta} [EnderCore] (EnderCore-1.7.10-0.2.0.39_beta.jar) 
+	UCHIJAAAAAA	Waila{1.5.10} [Waila] (Waila-1.5.10_1.7.10.jar) 
+	UCHIJAAAAAA	EnderIO{1.7.10-2.3.0.429_beta} [Ender IO] (EnderIO-1.7.10-2.3.0.429_beta.jar) 
+	UCHIJAAAAAA	energycontrol{1.7.10-0.3.4} [Energy Control] (EnergyControl-1.7.10-0.3.4.jar) 
+	UCHIJAAAAAA	erde{1.0c} [Entity Render Extender] (EntityRenderDistanceExtender-1.0c.jar) 
+	UCHIJAAAAAA	extrabuttons{1.7.10.1} [ExtraButtons] (ExtraButtons-1.7.10.1.jar) 
+	UCHIJAAAAAA	extracells{2.4.0} [Extra Cells 2] (ExtraCells-1.7.10-2.4.0.jar) 
+	UCHIJAAAAAA	Mantle{1.7.10-0.3.2.jenkins191} [Mantle] (Mantle-1.7.10-0.3.2b.jar) 
+	UCHIJAAAAAA	ThermalFoundation{1.7.10R1.2.6} [Thermal Foundation] (ThermalFoundation-[1.7.10]1.2.6-118.jar) 
+	UCHIJAAAAAA	ExtraUtilities{1.2.12} [Extra Utilities] (extrautilities-1.2.12.jar) 
+	UCHIJAAAAAA	ImmersiveEngineering{0.7.7} [Immersive Engineering] (ImmersiveEngineering-0.7.7.jar) 
+	UCHIJAAAAAA	thermaltinkering{1.0} [Thermal Tinkering] (ThermalTinkering-1.7.10-1.2.1.jar) 
+	UCHIJAAAAAA	ThermalExpansion{1.7.10R4.1.5} [Thermal Expansion] (ThermalExpansion-[1.7.10]4.1.5-248.jar) 
+	UCHIJAAAAAA	TConstruct{1.7.10-1.8.8.build988} [Tinkers' Construct] (TConstruct-1.7.10-1.8.8.jar) 
+	UCHIJAAAAAA	GalacticraftCore{3.0.12} [Galacticraft Core] (GalacticraftCore-1.7-3.0.12.504.jar) 
+	UCHIJAAAAAA	GalacticraftMars{3.0.12} [Galacticraft Planets] (Galacticraft-Planets-1.7-3.0.12.504.jar) 
+	UCHIJAAAAAA	ExtraPlanets{1.7.10-2.1.4} [Extra Planets] (ExtraPlanets-1.7.10-2.1.4.jar) 
+	UCHIJAAAAAA	harvestcraft{1.7.10j} [Pam's HarvestCraft] (Pam's HarvestCraft 1.7.10Lb.jar) 
+	UCHIJAAAAAA	ExtraTiC{1.4.6} [ExtraTiC] (ExtraTiC-1.7.10-1.4.6.jar) 
+	UCHIJAAAAAA	fastleafdecay{1.4} [Fast Leaf Decay] (FastLeafDecay-1.7.10-1.4.jar) 
+	UCHIJAAAAAA	flenixroads{0.10.0} [FlenixRoads] (FlenixRoads_[1.7.10]-0.10.0-b40.jar) 
+	UCHIJAAAAAA	foamfix{@VERSION@} [FoamFix] (FoamFix-1.7.10-universal-1.0.4.jar) 
+	UCHIJAAAAAA	McMultipart{1.2.0.345} [Minecraft Multipart Plugin] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+	UCHIJAAEEEE	gvc{0.6.1} [§aGliby's§f Voice Chat Mod] (GlibysVC-1.7.10-0.6.2a.jar) 
+	UCHIJAAAAAA	gravestone{0.7.10.3} [Gravestone] (GraveStone Mod 0.7.10.3.jar) 
+	UCHIJAAAAAA	hbm{1.0.27 BETA (4522)} [Hbm's Nuclear Tech] (HBM-NTM-[1.0.27_X4522].jar) 
+	UCHIJAAAAAA	hidenames{1.1.7} [Hide Names] (Hide Names-1.7.10-1.1.8.jar) 
+	UCHIJAAAAAA	immersiveintegration{0.6.8} [Immersive Integration] (immersiveintegration-0.6.8.jar) 
+	UCHIJAAAAAA	inventorytweaks{1.59-dev-152-cf6e263} [Inventory Tweaks] (InventoryTweaks-1.59-dev-152.jar) 
+	UCHIJAAAAAA	ironbackpacks{1.7.10-1.2.20} [Iron Backpacks] (IronBackpacks-1.7.10-1.2.20.jar) 
+	UCHIJAAAAAA	IronChest{6.0.62.742} [Iron Chest] (ironchest-1.7.10-6.0.62.742-universal.jar) 
+	UCHIJAAAAAA	jadednei{1.0.3} [JadedNEI] (JadedNEI-1.7.10-1.0.3.jar) 
+	UCHIJAAAAAA	kleeslabs{1.0} [KleeSlabs] (kleeslabs-mc1.7.10-1.2.9.jar) 
+	UCHIJAAAAAA	malisiscore{1.7.10-0.14.3} [MalisisCore] (malisiscore-1.7.10-0.14.3.jar) 
+	UCHIJAAAAAA	malisisdoors{1.7.10-1.13.2} [Malisis' Doors] (malisisdoors-1.7.10-1.13.2.jar) 
+	UCHIJAAAAAA	mcheli{1.0.3} [MC Helicopter] (mcheli) 
+	UCHIJAAAAAA	mchelishield{1.0.1} [MC Heli Privacy Shield] (McHeliPrivacyShield-1.7.10-1.0.1-universal.jar) 
+	UCHIJAAAAAA	mimic18{1} [mimic18] (MimicMinecraft18-1.7.10-1.0.0.jar) 
+	UCHIJAAAAAA	MTRM{1.0} [MineTweakerRecipeMaker] (MineTweakerRecipeMaker-1.7.10-1.1.1.jar) 
+	UCHIJAAAAAA	testdummy{1.0} [MmmMmmMmmMmm] (MmmMmmMmmMmm-1.7.10-1.9.jar) 
+	UCHIJAAAAAA	modtweaker2{0.9.6} [Mod Tweaker 2] (ModTweaker2-0.9.6.jar) 
+	UCHIJAAAAAA	Morpheus{1.7.10-1.6.21} [Morpheus] (Morpheus-1.7.10-1.6.21.jar) 
+	UCHIJAAAAAA	MouseTweaks{2.4.4} [Mouse Tweaks] (MouseTweaks-2.4.4-mc1.7.10.jar) 
+	UCHIJAAAAAA	cfm{3.4.7} [§9MrCrayfish's Furniture Mod] (MrCrayfishFurnitureModv3.4.7(1.7.10).jar) 
+	UCHIJAAAAAA	MTUtils{1.6} [MTUtils] (MTUtils-1.6.jar) 
+	UCHIJAAAAAA	mw{1.11.7.7} [Modern Warfare] (mw-1.11.7.7_mc1.7.10.jar) 
+	UCHIJAAAAAA	NEIAddons{1.12.14.40} [NEI Addons] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAAAA	NEIAddons|Developer{1.12.14.40} [NEI Addons: Developer Tools] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAAAA	NEIAddons|AppEng{1.12.14.40} [NEI Addons: Applied Energistics 2] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAAAA	NEIAddons|Botany{1.12.14.40} [NEI Addons: Botany] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAAAA	NEIAddons|Forestry{1.12.14.40} [NEI Addons: Forestry] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAAAA	NEIAddons|CraftingTables{1.12.14.40} [NEI Addons: Crafting Tables] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAAAA	NEIAddons|ExNihilo{1.12.14.40} [NEI Addons: Ex Nihilo] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAAAA	neirecipehandlers{1.1.0-BETA} [NEI Recipe Handlers] (neiRecipeHandlers-1.1.0-BETA.jar) 
+	UCHIJAAAAAA	recipehandler{1.7.10} [NoMoreRecipeConflict] (NoMoreRecipeConflict-1.7.10-0.3.2.jar) 
+	UCHIJAAAAAA	p455w0rdslib{1.0.4} [p455w0rd's Library] (p455w0rdslib-1.7.10-1.0.4.jar) 
+	UCHIJAAAAAA	ae2wct{1.7.10-rv3-1.8.7.4b} [AE2 Wireless Crafting Terminal] (WirelessCraftingTerminal-1.7.10-rv3-1.8.7.4b.jar) 
+	UCHIJAAAAAA	neenergistics{@VERSION@} [NotEnoughEnergistics] (NotEnoughEnergistics-1.7.10-1.4.2.jar) 
+	UCHIJAAAAAA	notenoughkeys{@MOD_VERSION@} [NotEnoughKeys] (NotEnoughKeys-1.7.10-3.0.0b45-dev-universal.jar) 
+	UCHIJAAAAAA	neresources{0.1.0.ManuallyBuilt} [Not Enough Resources] (NotEnoughResources-1.7.10-0.1.0-122.jar) 
+	UCHIJAAAAAA	OpenComputers{1.8.0} [OpenComputers] (OpenComputers-MC1.7.10-1.8.0+8fb006a-universal.jar) 
+	UCHIJAAAAAA	openfm{0.1.0.45} [OpenFM] (OpenFM-1.7.10-0.1.0-45.jar) 
+	UCHIJAAAAAA	openlights{0.1.0.22} [OpenLights] (OpenLights-MC1.7.10-OC1.4-0.1.0.22.jar) 
+	UCHIJAAAAAA	openmodularturrets{2.2.11-245} [Open Modular Turrets] (OpenModularTurrets-1.7.10-2.2.11-245.jar) 
+	UCHIJAAAAAA	opensecurity{1.0.117} [OpenSecurity] (OpenSecurity-1.7.10-1.0-117.jar) 
+	UCHIJAAAAAA	opensensors{1.0.5} [OpenSensors] (OpenSensors-MC1.7.10-1.0-5.jar) 
+	UCHIJAAAAAA	oreexcavation{1.1.134} [OreExcavation] (OreExcavation-1.1.134.jar) 
+	UCHIJAAAAAA	reauth{4.0.7} [ReAuth] (ReAuth-1.7.10-Forge-4.0.7.jar) 
+	UCHIJAAAAAA	shouldersurfing{2.3.2} [Shoulder Surfing] (ShoulderSurfing-1.7.10-2.3.2.jar) 
+	UCHIJAAAAAA	sit{v1.1} [Sit] (sit-1.7.10-v1.1.jar) 
+	UCHIJAAAAAA	SmartRender{2.1} [Smart Render] (SmartRender-1.7.10-2.1.jar) 
+	UCHIJAAAAAA	SolarFlux{1.7.10-0.8b} [Solar Flux] (SolarFlux-1.7.10-0.8b.jar) 
+	UCHIJAAAAAA	spark{1.10.35} [spark] (spark-1.10.19-forge1710.jar) 
+	UCHIJAAAAAA	StorageDrawers{1.7.10-1.10.9} [Storage Drawers] (StorageDrawers-1.7.10-1.10.9.jar) 
+	UCHIJAAAAAA	StorageDrawersBop{1.7.10-1.1.1} [Storage Drawers: Biomes O' Plenty Pack] (StorageDrawers-BiomesOPlenty-1.7.10-1.1.1.jar) 
+	UCHIJAAAAAA	StorageDrawersMisc{1.7.10-1.1.2} [Storage Drawers: Misc Pack] (StorageDrawers-Misc-1.7.10-1.1.2.jar) 
+	UCHIJAAAAAA	teamup{1.1.3:1.7.10} [Team Up] (TeamUp-1.1.3-1.7.10.jar) 
+	UCHIJAAAAAA	ThermalCasting{0.0.3} [Thermal Casting] (thermalcasting-0.0.3.jar) 
+	UCHIJAAAAAA	ThermalDynamics{1.7.10R1.2.1} [Thermal Dynamics] (ThermalDynamics-[1.7.10]1.2.1-172.jar) 
+	UCHIJAAAAAA	ThermalSmeltery{1.0} [Thermal Smeltery] (ThermalSmeltery-1.3.1.4.jar) 
+	UCHIJAAAAAA	TMechworks{0.2.15.106} [Tinkers' Mechworks] (TMechworks-1.7.10-0.2.15.106.jar) 
+	UCHIJAAAAAA	trackapi{1.2} [Track API] (TrackAPI-1.2.jar) 
+	UCHIJAAAAAA	universalmodcore{1.1.4} [UniversalModCore] (UniversalModCore-1.7.10-forge-1.1.4-899c85.jar) 
+	UCHIJAAAAAA	WailaHarvestability{1.1.6} [Waila Harvestability] (WailaHarvestability-mc1.7.10-1.1.6.jar) 
+	UCHIJAAAAAA	wailaplugins{MC1.7.10-0.2.0-25} [WAILA Plugins] (WAILAPlugins-MC1.7.10-0.2.0-25.jar) 
+	UCHIJAAAAAA	warstuff{1.3} [WarStuff] (warstuff_mod_1.7.10.jar) 
+	UCHIJAAAAAA	worldedit{6.1.1} [WorldEdit] (worldedit-forge-mc1.7.10-6.1.1-dist.jar) 
+	UCHIJAAAAAA	XaeroWorldMap{1.14.1.23} [Xaero's World Map] (XaerosWorldMap_1.14.1.24_Forge_1.7.10.jar) 
+	UCHIJAAAAAA	yegamolchattels{1.1.2} [Ye Gamol Chattels] (YeGamolChattels-1.1.2.jar) 
+	UCHIJAAAAAA	denseores{1.0} [Dense Ores] (denseores-1.6.2.jar) 
+	UCHIJAAAAAA	ForgeMicroblock{1.2.0.345} [Forge Microblocks] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+[00:05:58] [Server thread/ERROR]: The following problems were captured during this phase
+[00:05:58] [Server thread/ERROR]: Caught exception from gvc
+java.lang.NullPointerException
+	at net.gliby.voicechat.common.VoiceChatServer.stop(VoiceChatServer.java:194) ~[VoiceChatServer.class:?]
+	at net.gliby.voicechat.VoiceChat.stopServer(VoiceChat.java:120) ~[VoiceChat.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) ~[LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) ~[LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) ~[LoadController.class:?]
+	at cpw.mods.fml.common.Loader.serverStopped(Loader.java:850) ~[Loader.class:?]
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerStopped(FMLCommonHandler.java:483) ~[FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:489) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [?:?]
+[00:05:58] [Server thread/ERROR]: Caught exception from gvc
+java.lang.NullPointerException
+	at net.gliby.voicechat.common.VoiceChatServer.stop(VoiceChatServer.java:194) ~[VoiceChatServer.class:?]
+	at net.gliby.voicechat.VoiceChat.stopServer(VoiceChat.java:120) ~[VoiceChat.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) ~[LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) ~[LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) ~[LoadController.class:?]
+	at cpw.mods.fml.common.Loader.serverStopped(Loader.java:850) ~[Loader.class:?]
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerStopped(FMLCommonHandler.java:483) ~[FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:489) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [?:?]
+[00:05:58] [Server thread/ERROR]: A fatal exception occurred during the server about to start event
+java.lang.NullPointerException
+	at net.gliby.voicechat.common.VoiceChatServer.stop(VoiceChatServer.java:194) ~[VoiceChatServer.class:?]
+	at net.gliby.voicechat.VoiceChat.stopServer(VoiceChat.java:120) ~[VoiceChat.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) ~[LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) ~[LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) ~[LoadController.class:?]
+	at cpw.mods.fml.common.Loader.serverStopped(Loader.java:850) ~[Loader.class:?]
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerStopped(FMLCommonHandler.java:483) ~[FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:489) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [?:?]
+[00:05:58] [Server thread/INFO]: Applying holder lookups
+[00:05:58] [Server thread/INFO]: Holder lookups applied
+[00:05:58] [pool-12-thread-1/INFO]: ServerChannelRegister: Dimensional Transceiver data saved to C:\Users\tomki\curseforge\minecraft\Instances\mc_war DEV\saves\New World--\enderio\dimensionalTransceiver.json
+[00:05:58] [Server thread/WARN]: Error handling file saving: Did the server never start?
+[00:05:58] [Server thread/INFO]: The state engine was in incorrect state ERRORED and forced into state SERVER_STOPPED. Errors may have been discarded.
+[00:05:58] [Server thread/INFO]: The state engine was in incorrect state ERRORED and forced into state AVAILABLE. Errors may have been discarded.
+[00:06:09] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[00:06:09] [Server thread/INFO]: Generating keypair
+[00:06:09] [Server thread/INFO]: [minetweaker.runtime.MTTweaker:load:111]: Loading scripts
+[00:06:09] [Server thread/INFO]: [minetweaker.runtime.MTTweaker:load:158]: MineTweaker: Loading aegis_recipes.zs
+[00:06:09] [Server thread/INFO]: [minetweaker.runtime.MTTweaker:load:158]: MineTweaker: Loading intermod
+[00:06:09] [Server thread/WARN]: FMLServerStartingEvent occurred when FMLServerStoppingEvent hasn't
+[00:06:09] [Server thread/ERROR]: Fatal errors were detected during the transition from AVAILABLE to SERVER_ABOUT_TO_START. Loading cannot continue
+[00:06:09] [Server thread/ERROR]: 
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJAAAAAAAA	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJAAAAAAAA	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAAAAAA	Forge{10.13.4.1614} [Minecraft Forge] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAAAAAA	appliedenergistics2-core{rv3-beta-6} [Applied Energistics 2 Core] (minecraft.jar) 
+	UCHIJAAAAAAAA	CodeChickenCore{1.0.7.48} [CodeChicken Core] (minecraft.jar) 
+	UCHIJAAAAAAAA	itemphysic{1.1.5} [ItemPhysic] (minecraft.jar) 
+	UCHIJAAAAAAAA	ivtoolkit{1.2.1} [IvToolkit] (minecraft.jar) 
+	UCHIJAAAAAAAA	Micdoodlecore{} [Micdoodle8 Core] (minecraft.jar) 
+	UCHIJAAAAAAAA	NotEnoughItems{1.0.5.120} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.5.120-universal.jar) 
+	UCHIJAAAAAAAA	OpenComputers|Core{1.8.0} [OpenComputers (Core)] (minecraft.jar) 
+	UCHIJAAAAAAAA	PlayerAPI{1.4} [Player API] (minecraft.jar) 
+	UCHIJAAAAAAAA	xaeroworldmap_core{1.7.10-1.0} [XaeroWorldMapCore] (minecraft.jar) 
+	UCHIJAAAAAAAA	<CoFH ASM>{000} [CoFH ASM] (minecraft.jar) 
+	UCHIJAAAAAAAA	FoamFixCore{1.0.4} [FoamFixCore] (minecraft.jar) 
+	UCHIJAAAAAAAA	FastCraft{1.25} [FastCraft] (fastcraft-1.25.jar) 
+	UCHIJAAAAAAAA	debug{1.0} [debug] (denseores-1.6.2.jar) 
+	UCHIJAAAAAAAA	securitycraft{v1.8.13} [SecurityCraft] ([1.7.10] SecurityCraft v1.8.13.jar) 
+	UCHIJAAAAAAAA	act{0.0.2a_1.7.10} [AdminCommandsToolbox] (AdminCommandsToolbox-0.0.2a_1.7.10.jar) 
+	UCHIJAAAAAAAA	appliedenergistics2{rv3-beta-6} [Applied Energistics 2] (appliedenergistics2-rv3-beta-6.jar) 
+	UCHIJAAAAAAAA	bdlib{1.9.4.109} [BD Lib] (bdlib-1.9.4.109-mc1.7.10.jar) 
+	UCHIJAAAAAAAA	ae2stuff{0.5.0.56} [AE2 Stuff] (ae2stuff-0.5.0.56-mc1.7.10.jar) 
+	UCHIJAAAAAAAA	AppleCore{3.1.1} [AppleCore] (AppleCore-mc1.7.10-3.1.1.jar) 
+	UCHIJAAAAAAAA	MovingWorld{1.7.10-1.8.1} [Moving World] (movingworld-1.7.10-1.8.1.jar) 
+	UCHIJAAAAAAAA	ArchimedesShipsPlus{1.7.10-1.8.1} [Archimedes' Ships Plus] (archimedesshipsplus-1.7.10-1.8.1.jar) 
+	UCHIJAAAAAAAA	AegisSystemMod{1.5.7a} [Aegis System Mod] (ASM-[1.7.10]-1.5.7a-single-obfuscated.jar) 
+	UCHIJAAAAAAAA	BiblioCraft{1.11.7} [BiblioCraft] (BiblioCraft[v1.11.7][MC1.7.10].jar) 
+	UCHIJAAAAAAAA	BiomesOPlenty{2.1.0} [Biomes O' Plenty] (BiomesOPlenty-1.7.10-2.1.0.1889-universal.jar) 
+	UCHIJAAAAAAAA	BiblioWoodsBoP{1.9} [BiblioWoods Biomes O'Plenty Edition] (BiblioWoods[BiomesOPlenty][v1.9].jar) 
+	UCHIJAAAAAAAA	ForgeMultipart{1.2.0.345} [Forge Multipart] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+	UCHIJAAAAAAAA	chisel{2.9.5.11} [Chisel] (Chisel-2.9.5.11.jar) 
+	UCHIJAAAAAAAA	CarpentersBlocks{3.3.8.2} [Carpenter's Blocks] (Carpenter's Blocks v3.3.8.2 - MC 1.7.10.jar) 
+	UCHIJAAAAAAAA	climatecontrol{0.8.1} [Climate Control] (ClimateControl-0.8.2.jar) 
+	UCHIJAAAAAAAA	CoFHCore{1.7.10R3.1.4} [CoFH Core] (CoFHCore-[1.7.10]3.1.4-329.jar) 
+	UCHIJAAAAAAAA	controlling{1.7.10-1.0.0.4} [Controlling] (Controlling-1.7.10-1.0.0.4.jar) 
+	UCHIJAAAAAAAA	cosmeticarmorreworked{1.7.10-v7} [CosmeticArmorReworked] (CosmeticArmorReworked-1.7.10-v7.jar) 
+	UCHIJAAAAAAAA	craftingtweaks{1.0.88} [Crafting Tweaks] (craftingtweaks-mc1.7.10-1.0.88.jar) 
+	UCHIJAAAAAAAA	craftpresence{2.0.0-rc.3} [CraftPresence] (CraftPresence-2.0.0-rc.3+1.7.10.jar) 
+	UCHIJAAAAAAAA	MineTweaker3{3.1.0} [MineTweaker 3] (CraftTweaker-1.7.10-3.1.0-legacy.jar) 
+	UCHIJAAAAAAAA	creativecore{1.3.14} [CreativeCore] (CreativeCore v1.3.24 mc1.7.10.jar) 
+	UCHIJAAAAAAAA	PTRModelLib{1.0.0} [PTRModelLib] (Decocraft-2.4.2_1.7.10.jar) 
+	UCHIJAAAAAAAA	props{2.4.2} [Decocraft] (Decocraft-2.4.2_1.7.10.jar) 
+	UCHIJAAAAAAAA	ImmibisCore{59.1.4} [Immibis Core] (Immibis-Core-1.7.10.jar) 
+	UCHIJAAAAAAAA	DimensionalAnchors{59.0.3} [Dimensional Anchors] (dimensional-anchor-59.0.3.jar) 
+	UCHIJAAAAAAAA	Ding{MC1.7.10v2} [Ding] (Ding-MC1.7.10v2.jar) 
+	UCHIJAAAAAAAA	Emotes{1.0} [Emotes] (Emotes 1.0.1.jar) 
+	UCHIJAAAAAAAA	endercore{1.7.10-0.2.0.39_beta} [EnderCore] (EnderCore-1.7.10-0.2.0.39_beta.jar) 
+	UCHIJAAAAAAAA	Waila{1.5.10} [Waila] (Waila-1.5.10_1.7.10.jar) 
+	UCHIJAAAAAAAA	EnderIO{1.7.10-2.3.0.429_beta} [Ender IO] (EnderIO-1.7.10-2.3.0.429_beta.jar) 
+	UCHIJAAAAAAAA	energycontrol{1.7.10-0.3.4} [Energy Control] (EnergyControl-1.7.10-0.3.4.jar) 
+	UCHIJAAAAAAAA	erde{1.0c} [Entity Render Extender] (EntityRenderDistanceExtender-1.0c.jar) 
+	UCHIJAAAAAAAA	extrabuttons{1.7.10.1} [ExtraButtons] (ExtraButtons-1.7.10.1.jar) 
+	UCHIJAAAAAAAA	extracells{2.4.0} [Extra Cells 2] (ExtraCells-1.7.10-2.4.0.jar) 
+	UCHIJAAAAAAAA	Mantle{1.7.10-0.3.2.jenkins191} [Mantle] (Mantle-1.7.10-0.3.2b.jar) 
+	UCHIJAAAAAAAA	ThermalFoundation{1.7.10R1.2.6} [Thermal Foundation] (ThermalFoundation-[1.7.10]1.2.6-118.jar) 
+	UCHIJAAAAAAAA	ExtraUtilities{1.2.12} [Extra Utilities] (extrautilities-1.2.12.jar) 
+	UCHIJAAAAAAAA	ImmersiveEngineering{0.7.7} [Immersive Engineering] (ImmersiveEngineering-0.7.7.jar) 
+	UCHIJAAAAAAAA	thermaltinkering{1.0} [Thermal Tinkering] (ThermalTinkering-1.7.10-1.2.1.jar) 
+	UCHIJAAAAAAAA	ThermalExpansion{1.7.10R4.1.5} [Thermal Expansion] (ThermalExpansion-[1.7.10]4.1.5-248.jar) 
+	UCHIJAAAAAAAA	TConstruct{1.7.10-1.8.8.build988} [Tinkers' Construct] (TConstruct-1.7.10-1.8.8.jar) 
+	UCHIJAAAAAAAA	GalacticraftCore{3.0.12} [Galacticraft Core] (GalacticraftCore-1.7-3.0.12.504.jar) 
+	UCHIJAAAAAAAA	GalacticraftMars{3.0.12} [Galacticraft Planets] (Galacticraft-Planets-1.7-3.0.12.504.jar) 
+	UCHIJAAAAAAAA	ExtraPlanets{1.7.10-2.1.4} [Extra Planets] (ExtraPlanets-1.7.10-2.1.4.jar) 
+	UCHIJAAAAAAAA	harvestcraft{1.7.10j} [Pam's HarvestCraft] (Pam's HarvestCraft 1.7.10Lb.jar) 
+	UCHIJAAAAAAAA	ExtraTiC{1.4.6} [ExtraTiC] (ExtraTiC-1.7.10-1.4.6.jar) 
+	UCHIJAAAAAAAA	fastleafdecay{1.4} [Fast Leaf Decay] (FastLeafDecay-1.7.10-1.4.jar) 
+	UCHIJAAAAAAAA	flenixroads{0.10.0} [FlenixRoads] (FlenixRoads_[1.7.10]-0.10.0-b40.jar) 
+	UCHIJAAAAAAAA	foamfix{@VERSION@} [FoamFix] (FoamFix-1.7.10-universal-1.0.4.jar) 
+	UCHIJAAAAAAAA	McMultipart{1.2.0.345} [Minecraft Multipart Plugin] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+	UCHIJAAEEEEEE	gvc{0.6.1} [§aGliby's§f Voice Chat Mod] (GlibysVC-1.7.10-0.6.2a.jar) 
+	UCHIJAAAAAAAA	gravestone{0.7.10.3} [Gravestone] (GraveStone Mod 0.7.10.3.jar) 
+	UCHIJAAAAAAAA	hbm{1.0.27 BETA (4522)} [Hbm's Nuclear Tech] (HBM-NTM-[1.0.27_X4522].jar) 
+	UCHIJAAAAAAAA	hidenames{1.1.7} [Hide Names] (Hide Names-1.7.10-1.1.8.jar) 
+	UCHIJAAAAAAAA	immersiveintegration{0.6.8} [Immersive Integration] (immersiveintegration-0.6.8.jar) 
+	UCHIJAAAAAAAA	inventorytweaks{1.59-dev-152-cf6e263} [Inventory Tweaks] (InventoryTweaks-1.59-dev-152.jar) 
+	UCHIJAAAAAAAA	ironbackpacks{1.7.10-1.2.20} [Iron Backpacks] (IronBackpacks-1.7.10-1.2.20.jar) 
+	UCHIJAAAAAAAA	IronChest{6.0.62.742} [Iron Chest] (ironchest-1.7.10-6.0.62.742-universal.jar) 
+	UCHIJAAAAAAAA	jadednei{1.0.3} [JadedNEI] (JadedNEI-1.7.10-1.0.3.jar) 
+	UCHIJAAAAAAAA	kleeslabs{1.0} [KleeSlabs] (kleeslabs-mc1.7.10-1.2.9.jar) 
+	UCHIJAAAAAAAA	malisiscore{1.7.10-0.14.3} [MalisisCore] (malisiscore-1.7.10-0.14.3.jar) 
+	UCHIJAAAAAAAA	malisisdoors{1.7.10-1.13.2} [Malisis' Doors] (malisisdoors-1.7.10-1.13.2.jar) 
+	UCHIJAAAAAAAA	mcheli{1.0.3} [MC Helicopter] (mcheli) 
+	UCHIJAAAAAAAA	mchelishield{1.0.1} [MC Heli Privacy Shield] (McHeliPrivacyShield-1.7.10-1.0.1-universal.jar) 
+	UCHIJAAAAAAAA	mimic18{1} [mimic18] (MimicMinecraft18-1.7.10-1.0.0.jar) 
+	UCHIJAAAAAAAA	MTRM{1.0} [MineTweakerRecipeMaker] (MineTweakerRecipeMaker-1.7.10-1.1.1.jar) 
+	UCHIJAAAAAAAA	testdummy{1.0} [MmmMmmMmmMmm] (MmmMmmMmmMmm-1.7.10-1.9.jar) 
+	UCHIJAAAAAAAA	modtweaker2{0.9.6} [Mod Tweaker 2] (ModTweaker2-0.9.6.jar) 
+	UCHIJAAAAAAAA	Morpheus{1.7.10-1.6.21} [Morpheus] (Morpheus-1.7.10-1.6.21.jar) 
+	UCHIJAAAAAAAA	MouseTweaks{2.4.4} [Mouse Tweaks] (MouseTweaks-2.4.4-mc1.7.10.jar) 
+	UCHIJAAAAAAAA	cfm{3.4.7} [§9MrCrayfish's Furniture Mod] (MrCrayfishFurnitureModv3.4.7(1.7.10).jar) 
+	UCHIJAAAAAAAA	MTUtils{1.6} [MTUtils] (MTUtils-1.6.jar) 
+	UCHIJAAAAAAAA	mw{1.11.7.7} [Modern Warfare] (mw-1.11.7.7_mc1.7.10.jar) 
+	UCHIJAAAAAAAA	NEIAddons{1.12.14.40} [NEI Addons] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAAAAAA	NEIAddons|Developer{1.12.14.40} [NEI Addons: Developer Tools] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAAAAAA	NEIAddons|AppEng{1.12.14.40} [NEI Addons: Applied Energistics 2] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAAAAAA	NEIAddons|Botany{1.12.14.40} [NEI Addons: Botany] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAAAAAA	NEIAddons|Forestry{1.12.14.40} [NEI Addons: Forestry] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAAAAAA	NEIAddons|CraftingTables{1.12.14.40} [NEI Addons: Crafting Tables] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAAAAAA	NEIAddons|ExNihilo{1.12.14.40} [NEI Addons: Ex Nihilo] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJAAAAAAAA	neirecipehandlers{1.1.0-BETA} [NEI Recipe Handlers] (neiRecipeHandlers-1.1.0-BETA.jar) 
+	UCHIJAAAAAAAA	recipehandler{1.7.10} [NoMoreRecipeConflict] (NoMoreRecipeConflict-1.7.10-0.3.2.jar) 
+	UCHIJAAAAAAAA	p455w0rdslib{1.0.4} [p455w0rd's Library] (p455w0rdslib-1.7.10-1.0.4.jar) 
+	UCHIJAAAAAAAA	ae2wct{1.7.10-rv3-1.8.7.4b} [AE2 Wireless Crafting Terminal] (WirelessCraftingTerminal-1.7.10-rv3-1.8.7.4b.jar) 
+	UCHIJAAAAAAAA	neenergistics{@VERSION@} [NotEnoughEnergistics] (NotEnoughEnergistics-1.7.10-1.4.2.jar) 
+	UCHIJAAAAAAAA	notenoughkeys{@MOD_VERSION@} [NotEnoughKeys] (NotEnoughKeys-1.7.10-3.0.0b45-dev-universal.jar) 
+	UCHIJAAAAAAAA	neresources{0.1.0.ManuallyBuilt} [Not Enough Resources] (NotEnoughResources-1.7.10-0.1.0-122.jar) 
+	UCHIJAAAAAAAA	OpenComputers{1.8.0} [OpenComputers] (OpenComputers-MC1.7.10-1.8.0+8fb006a-universal.jar) 
+	UCHIJAAAAAAAA	openfm{0.1.0.45} [OpenFM] (OpenFM-1.7.10-0.1.0-45.jar) 
+	UCHIJAAAAAAAA	openlights{0.1.0.22} [OpenLights] (OpenLights-MC1.7.10-OC1.4-0.1.0.22.jar) 
+	UCHIJAAAAAAAA	openmodularturrets{2.2.11-245} [Open Modular Turrets] (OpenModularTurrets-1.7.10-2.2.11-245.jar) 
+	UCHIJAAAAAAAA	opensecurity{1.0.117} [OpenSecurity] (OpenSecurity-1.7.10-1.0-117.jar) 
+	UCHIJAAAAAAAA	opensensors{1.0.5} [OpenSensors] (OpenSensors-MC1.7.10-1.0-5.jar) 
+	UCHIJAAAAAAAA	oreexcavation{1.1.134} [OreExcavation] (OreExcavation-1.1.134.jar) 
+	UCHIJAAAAAAAA	reauth{4.0.7} [ReAuth] (ReAuth-1.7.10-Forge-4.0.7.jar) 
+	UCHIJAAAAAAAA	shouldersurfing{2.3.2} [Shoulder Surfing] (ShoulderSurfing-1.7.10-2.3.2.jar) 
+	UCHIJAAAAAAAA	sit{v1.1} [Sit] (sit-1.7.10-v1.1.jar) 
+	UCHIJAAAAAAAA	SmartRender{2.1} [Smart Render] (SmartRender-1.7.10-2.1.jar) 
+	UCHIJAAAAAAAA	SolarFlux{1.7.10-0.8b} [Solar Flux] (SolarFlux-1.7.10-0.8b.jar) 
+	UCHIJAAAAAAAA	spark{1.10.35} [spark] (spark-1.10.19-forge1710.jar) 
+	UCHIJAAAAAAAA	StorageDrawers{1.7.10-1.10.9} [Storage Drawers] (StorageDrawers-1.7.10-1.10.9.jar) 
+	UCHIJAAAAAAAA	StorageDrawersBop{1.7.10-1.1.1} [Storage Drawers: Biomes O' Plenty Pack] (StorageDrawers-BiomesOPlenty-1.7.10-1.1.1.jar) 
+	UCHIJAAAAAAAA	StorageDrawersMisc{1.7.10-1.1.2} [Storage Drawers: Misc Pack] (StorageDrawers-Misc-1.7.10-1.1.2.jar) 
+	UCHIJAAAAAAAA	teamup{1.1.3:1.7.10} [Team Up] (TeamUp-1.1.3-1.7.10.jar) 
+	UCHIJAAAAAAAA	ThermalCasting{0.0.3} [Thermal Casting] (thermalcasting-0.0.3.jar) 
+	UCHIJAAAAAAAA	ThermalDynamics{1.7.10R1.2.1} [Thermal Dynamics] (ThermalDynamics-[1.7.10]1.2.1-172.jar) 
+	UCHIJAAAAAAAA	ThermalSmeltery{1.0} [Thermal Smeltery] (ThermalSmeltery-1.3.1.4.jar) 
+	UCHIJAAAAAAAA	TMechworks{0.2.15.106} [Tinkers' Mechworks] (TMechworks-1.7.10-0.2.15.106.jar) 
+	UCHIJAAAAAAAA	trackapi{1.2} [Track API] (TrackAPI-1.2.jar) 
+	UCHIJAAAAAAAA	universalmodcore{1.1.4} [UniversalModCore] (UniversalModCore-1.7.10-forge-1.1.4-899c85.jar) 
+	UCHIJAAAAAAAA	WailaHarvestability{1.1.6} [Waila Harvestability] (WailaHarvestability-mc1.7.10-1.1.6.jar) 
+	UCHIJAAAAAAAA	wailaplugins{MC1.7.10-0.2.0-25} [WAILA Plugins] (WAILAPlugins-MC1.7.10-0.2.0-25.jar) 
+	UCHIJAAAAAAAA	warstuff{1.3} [WarStuff] (warstuff_mod_1.7.10.jar) 
+	UCHIJAAAAAAAA	worldedit{6.1.1} [WorldEdit] (worldedit-forge-mc1.7.10-6.1.1-dist.jar) 
+	UCHIJAAAAAAAA	XaeroWorldMap{1.14.1.23} [Xaero's World Map] (XaerosWorldMap_1.14.1.24_Forge_1.7.10.jar) 
+	UCHIJAAAAAAAA	yegamolchattels{1.1.2} [Ye Gamol Chattels] (YeGamolChattels-1.1.2.jar) 
+	UCHIJAAAAAAAA	denseores{1.0} [Dense Ores] (denseores-1.6.2.jar) 
+	UCHIJAAAAAAAA	ForgeMicroblock{1.2.0.345} [Forge Microblocks] (ForgeMultipart-1.7.10-1.2.0.345-universal.jar) 
+[00:06:09] [Server thread/ERROR]: The following problems were captured during this phase
+[00:06:09] [Server thread/ERROR]: Caught exception from gvc
+java.lang.NullPointerException
+	at net.gliby.voicechat.common.VoiceChatServer.stop(VoiceChatServer.java:194) ~[VoiceChatServer.class:?]
+	at net.gliby.voicechat.VoiceChat.stopServer(VoiceChat.java:120) ~[VoiceChat.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) ~[LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) ~[LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) ~[LoadController.class:?]
+	at cpw.mods.fml.common.Loader.serverStopped(Loader.java:850) ~[Loader.class:?]
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerStopped(FMLCommonHandler.java:483) ~[FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:489) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [?:?]
+[00:06:09] [Server thread/ERROR]: Caught exception from gvc
+java.lang.NullPointerException
+	at net.gliby.voicechat.common.VoiceChatServer.stop(VoiceChatServer.java:194) ~[VoiceChatServer.class:?]
+	at net.gliby.voicechat.VoiceChat.stopServer(VoiceChat.java:120) ~[VoiceChat.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) ~[LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) ~[LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) ~[LoadController.class:?]
+	at cpw.mods.fml.common.Loader.serverStopped(Loader.java:850) ~[Loader.class:?]
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerStopped(FMLCommonHandler.java:483) ~[FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:489) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [?:?]
+[00:06:09] [Server thread/ERROR]: Caught exception from gvc
+java.lang.NullPointerException
+	at net.gliby.voicechat.common.VoiceChatServer.stop(VoiceChatServer.java:194) ~[VoiceChatServer.class:?]
+	at net.gliby.voicechat.VoiceChat.stopServer(VoiceChat.java:120) ~[VoiceChat.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) ~[LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) ~[LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) ~[LoadController.class:?]
+	at cpw.mods.fml.common.Loader.serverStopped(Loader.java:850) ~[Loader.class:?]
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerStopped(FMLCommonHandler.java:483) ~[FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:489) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [?:?]
+[00:06:09] [Server thread/ERROR]: A fatal exception occurred during the server about to start event
+java.lang.NullPointerException
+	at net.gliby.voicechat.common.VoiceChatServer.stop(VoiceChatServer.java:194) ~[VoiceChatServer.class:?]
+	at net.gliby.voicechat.VoiceChat.stopServer(VoiceChat.java:120) ~[VoiceChat.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) ~[forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) ~[LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) ~[LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) ~[LoadController.class:?]
+	at cpw.mods.fml.common.Loader.serverStopped(Loader.java:850) ~[Loader.class:?]
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerStopped(FMLCommonHandler.java:483) ~[FMLCommonHandler.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:489) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [?:?]
+[00:06:09] [Server thread/INFO]: Applying holder lookups
+[00:06:09] [Server thread/INFO]: Holder lookups applied
+[00:06:09] [pool-12-thread-1/INFO]: ServerChannelRegister: Dimensional Transceiver data saved to C:\Users\tomki\curseforge\minecraft\Instances\mc_war DEV\saves\New World\enderio\dimensionalTransceiver.json
+[00:06:09] [Server thread/WARN]: Error handling file saving: Did the server never start?
+[00:06:09] [Server thread/INFO]: The state engine was in incorrect state ERRORED and forced into state SERVER_STOPPED. Errors may have been discarded.
+[00:06:09] [Server thread/INFO]: The state engine was in incorrect state ERRORED and forced into state AVAILABLE. Errors may have been discarded.
+[00:06:12] [Client thread/INFO]: Stopping!
+[00:06:12] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[00:06:12] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[00:06:13] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[00:06:13] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
