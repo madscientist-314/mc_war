@@ -13,7 +13,7 @@ flowers:true
 compression:false
 coordinates:true
 biomeColorsVanillaMode:false
-waypoints:true
+waypoints:false
 renderArrow:true
 displayZoom:true
 ignoreHeightmaps:false
