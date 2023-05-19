@@ -19,24 +19,7 @@ var bmdR = <AegisSystemMod:BMDRBlock>;
 var fcs2 = <AegisSystemMod:s>;
 var spg62 = <AegisSystemMod:s>;
 var strAntanna = <AegisSystemMod:s>;
-var s = <AegisSystemMod:s>;
-var s = <AegisSystemMod:s>;
-var s = <AegisSystemMod:s>;
-var s = <AegisSystemMod:s>;
-var s = <AegisSystemMod:s>;
-var s = <AegisSystemMod:s>;
-var s = <AegisSystemMod:s>;
-var s = <AegisSystemMod:s>;
-var s = <AegisSystemMod:s>;
-var s = <AegisSystemMod:s>;
-var s = <AegisSystemMod:s>;
-var s = <AegisSystemMod:s>;
-var s = <AegisSystemMod:s>;
-var s = <AegisSystemMod:s>;
-var s = <AegisSystemMod:s>;
-var s = <AegisSystemMod:s>;
-var s = <AegisSystemMod:s>;
-var s = <AegisSystemMod:s>;
+
 
 recipies.addShaped(
      weaponController,
