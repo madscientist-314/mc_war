@@ -176,7 +176,7 @@ key_gui.xaero_open_settings:27
 key_gui.xaero_map_zoom_in:0
 key_gui.xaero_map_zoom_out:0
 key_gui.xaero_quick_confirm:0
-key_key.control:157
+key_key.control:0
 key_key.cofh.empower:0
 key_key.cofh.multimode:0
 key_BetterFps:88
