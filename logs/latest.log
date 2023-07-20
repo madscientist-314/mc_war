@@ -3156,3 +3156,9 @@ java.lang.NullPointerException
 [17:36:45] [Server thread/INFO]: Unregistered Dimension: -42
 [17:36:45] [Server thread/INFO]: Unregistered Dimension: -36
 [17:36:45] [Server thread/INFO]: Stopped Voice Server.
+[17:38:32] [Client thread/INFO]: Stopping!
+[17:38:32] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[17:38:32] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[17:38:32] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[17:38:32] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[17:38:32] [CraftPresence/INFO]: Shutting down CraftPresence...
