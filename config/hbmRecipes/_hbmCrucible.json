@@ -107,6 +107,32 @@
       "output": [
         ["TcAlloy",72]
       ]
+    },
+    {
+      "id": 12,
+      "name": "crucible.cdalloy",
+      "frequency": 9,
+      "icon": ["hbm:item.ingot_cdalloy"],
+      "input": [
+        ["Steel",64],
+        ["Cadmium",8]
+      ],
+      "output": [
+        ["CdAlloy",72]
+      ]
+    },
+    {
+      "id": 13,
+      "name": "crucible.cmb",
+      "frequency": 3,
+      "icon": ["hbm:item.ingot_combine_steel"],
+      "input": [
+        ["MagnetizedTungsten",48],
+        ["WatzMud",24]
+      ],
+      "output": [
+        ["CMBSteel",72]
+      ]
     }
   ]
 }

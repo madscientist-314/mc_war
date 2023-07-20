@@ -1,103 +1,390 @@
 {
   "recipes": [
     {
-      "duration": 50,
-      "output": ["COOLANT",2000],
-      "input1": ["WATER",1800],
-      "solidInput": ["dict","dustSaltpeter"]
+      "outputType": "DIESEL_CRACK_REFORM",
+      "recipes": [
+        {
+          "duration": 50,
+          "outputAmount": 1000,
+          "input1": ["DIESEL_CRACK",900],
+          "input2": ["REFORMATE",100]
+        }
+      ]
     },
     {
-      "duration": 40,
-      "output": ["GASOLINE_LEADED",1000],
-      "input1": ["GASOLINE",800],
-      "solidInput": ["item","hbm:item.antiknock"]
+      "outputType": "SULFURIC_ACID",
+      "recipes": [
+        {
+          "duration": 50,
+          "outputAmount": 500,
+          "input1": ["ACID",800],
+          "solidInput": ["dict","dustSulfur"]
+        }
+      ]
     },
     {
-      "duration": 100,
-      "output": ["SCHRABIDIC",16000],
-      "input1": ["SAS3",8000],
-      "input2": ["ACID",6000],
-      "solidInput": ["item","hbm:item.pellet_charged"]
+      "outputType": "PETROIL",
+      "recipes": [
+        {
+          "duration": 30,
+          "outputAmount": 1000,
+          "input1": ["RECLAIMED",800],
+          "input2": ["LUBRICANT",200]
+        }
+      ]
     },
     {
-      "duration": 50,
-      "output": ["SOLVENT",1000],
-      "input1": ["NAPHTHA",500],
-      "input2": ["AROMATICS",500]
+      "outputType": "LUBRICANT",
+      "recipes": [
+        {
+          "duration": 20,
+          "outputAmount": 1000,
+          "input1": ["HEATINGOIL",500],
+          "input2": ["UNSATURATEDS",500]
+        },
+        {
+          "duration": 20,
+          "outputAmount": 1000,
+          "input1": ["FISHOIL",800],
+          "input2": ["ETHANOL",200]
+        },
+        {
+          "duration": 20,
+          "outputAmount": 1000,
+          "input1": ["SUNFLOWEROIL",800],
+          "input2": ["ETHANOL",200]
+        }
+      ]
     },
     {
-      "duration": 50,
-      "output": ["SYNGAS",1000],
-      "input1": ["COALOIL",500],
-      "input2": ["STEAM",500]
+      "outputType": "GASOLINE_LEADED",
+      "recipes": [
+        {
+          "duration": 40,
+          "outputAmount": 12000,
+          "input1": ["GASOLINE",10000],
+          "solidInput": ["item","hbm:item.antiknock"]
+        }
+      ]
     },
     {
-      "duration": 100,
-      "output": ["ENDERJUICE",100],
-      "input1": ["XPJUICE",500],
-      "solidInput": ["dict","dustDiamond"]
+      "outputType": "CHLOROCALCITE_MIX",
+      "recipes": [
+        {
+          "duration": 50,
+          "outputAmount": 1000,
+          "input1": ["CHLOROCALCITE_SOLUTION",500],
+          "input2": ["SULFURIC_ACID",500]
+        }
+      ]
     },
     {
-      "duration": 50,
-      "output": ["NITAN",1000],
-      "input1": ["KEROSENE",600],
-      "input2": ["MERCURY",200],
-      "solidInput": ["item","hbm:item.powder_nitan_mix"]
+      "outputType": "EGG",
+      "recipes": [
+        {
+          "duration": 50,
+          "outputAmount": 1000,
+          "input1": ["RADIOSOLVENT",500],
+          "solidInput": ["item","minecraft:egg"]
+        }
+      ]
     },
     {
-      "duration": 20,
-      "output": ["LUBRICANT",1000],
-      "input1": ["HEATINGOIL",500],
-      "input2": ["UNSATURATEDS",500]
+      "outputType": "SYNGAS",
+      "recipes": [
+        {
+          "duration": 50,
+          "outputAmount": 1000,
+          "input1": ["COALOIL",500],
+          "input2": ["STEAM",500]
+        }
+      ]
     },
     {
-      "duration": 40,
-      "output": ["COALGAS_LEADED",1000],
-      "input1": ["COALGAS",800],
-      "solidInput": ["item","hbm:item.antiknock"]
+      "outputType": "BIOFUEL",
+      "recipes": [
+        {
+          "duration": 20,
+          "outputAmount": 250,
+          "input1": ["FISHOIL",500],
+          "input2": ["WOODOIL",500]
+        },
+        {
+          "duration": 20,
+          "outputAmount": 200,
+          "input1": ["SUNFLOWEROIL",500],
+          "input2": ["WOODOIL",500]
+        }
+      ]
     },
     {
-      "duration": 20,
-      "output": ["FRACKSOL",1000],
-      "input1": ["WATER",1000],
-      "input2": ["PETROLEUM",100],
-      "solidInput": ["dict","dustSulfur"]
+      "outputType": "OXYHYDROGEN",
+      "recipes": [
+        {
+          "duration": 50,
+          "outputAmount": 1000,
+          "input1": ["HYDROGEN",500],
+          "input2": ["OXYGEN",500]
+        }
+      ]
     },
     {
-      "duration": 50,
-      "output": ["CRYOGEL",2000],
-      "input1": ["COOLANT",1800],
-      "solidInput": ["item","hbm:item.powder_ice"]
+      "outputType": "DIESEL_REFORM",
+      "recipes": [
+        {
+          "duration": 50,
+          "outputAmount": 1000,
+          "input1": ["DIESEL",900],
+          "input2": ["REFORMATE",100]
+        }
+      ]
     },
     {
-      "duration": 50,
-      "output": ["NITRIC_ACID",500],
-      "input1": ["SULFURIC_ACID",500],
-      "solidInput": ["dict","dustSaltpeter"]
+      "outputType": "COALGAS_LEADED",
+      "recipes": [
+        {
+          "duration": 40,
+          "outputAmount": 12000,
+          "input1": ["COALGAS",10000],
+          "solidInput": ["item","hbm:item.antiknock"]
+        }
+      ]
     },
     {
-      "duration": 40,
-      "output": ["PETROIL_LEADED",1000],
-      "input1": ["PETROIL",800],
-      "solidInput": ["item","hbm:item.antiknock"]
+      "outputType": "MUSTARDGAS",
+      "recipes": [
+        {
+          "duration": 20,
+          "outputAmount": 1000,
+          "input1": ["REFORMGAS",750],
+          "input2": ["CHLORINE",250],
+          "solidInput": ["dict","dustSulfur"]
+        }
+      ]
     },
     {
-      "duration": 50,
-      "output": ["SULFURIC_ACID",500],
-      "input1": ["ACID",800],
-      "solidInput": ["dict","dustSulfur"]
+      "outputType": "KEROSENE_REFORM",
+      "recipes": [
+        {
+          "duration": 50,
+          "outputAmount": 1000,
+          "input1": ["KEROSENE",900],
+          "input2": ["REFORMATE",100]
+        }
+      ]
     },
     {
-      "duration": 30,
-      "output": ["PETROIL",1000],
-      "input1": ["RECLAIMED",800],
-      "input2": ["LUBRICANT",200]
+      "outputType": "FRACKSOL",
+      "recipes": [
+        {
+          "duration": 20,
+          "outputAmount": 1000,
+          "input1": ["SULFURIC_ACID",900],
+          "input2": ["PETROLEUM",100]
+        },
+        {
+          "duration": 20,
+          "outputAmount": 1000,
+          "input1": ["WATER",1000],
+          "input2": ["PETROLEUM",100],
+          "solidInput": ["dict","dustSulfur"]
+        }
+      ]
     },
     {
-      "duration": 50,
-      "output": ["OXYHYDROGEN",1000],
-      "input1": ["HYDROGEN",500],
-      "input2": ["OXYGEN",500]
+      "outputType": "COOLANT",
+      "recipes": [
+        {
+          "duration": 50,
+          "outputAmount": 2000,
+          "input1": ["WATER",1800],
+          "solidInput": ["dict","dustSaltpeter"]
+        }
+      ]
+    },
+    {
+      "outputType": "CRYOGEL",
+      "recipes": [
+        {
+          "duration": 50,
+          "outputAmount": 2000,
+          "input1": ["COOLANT",1800],
+          "solidInput": ["item","hbm:item.powder_ice"]
+        }
+      ]
+    },
+    {
+      "outputType": "SCHRABIDIC",
+      "recipes": [
+        {
+          "duration": 100,
+          "outputAmount": 16000,
+          "input1": ["SAS3",8000],
+          "input2": ["ACID",6000],
+          "solidInput": ["item","hbm:item.pellet_charged"]
+        }
+      ]
+    },
+    {
+      "outputType": "PETROIL_LEADED",
+      "recipes": [
+        {
+          "duration": 40,
+          "outputAmount": 12000,
+          "input1": ["PETROIL",10000],
+          "solidInput": ["item","hbm:item.antiknock"]
+        }
+      ]
+    },
+    {
+      "outputType": "SOLVENT",
+      "recipes": [
+        {
+          "duration": 50,
+          "outputAmount": 1000,
+          "input1": ["NAPHTHA",500],
+          "input2": ["AROMATICS",500]
+        }
+      ]
+    },
+    {
+      "outputType": "ENDERJUICE",
+      "recipes": [
+        {
+          "duration": 100,
+          "outputAmount": 100,
+          "input1": ["XPJUICE",500],
+          "solidInput": ["dict","dustDiamond"]
+        }
+      ]
+    },
+    {
+      "outputType": "PHOSGENE",
+      "recipes": [
+        {
+          "duration": 20,
+          "outputAmount": 1000,
+          "input1": ["UNSATURATEDS",500],
+          "input2": ["CHLORINE",500]
+        }
+      ]
+    },
+    {
+      "outputType": "SALIENT",
+      "recipes": [
+        {
+          "duration": 20,
+          "outputAmount": 1000,
+          "input1": ["SEEDSLURRY",500],
+          "input2": ["BLOOD",500]
+        }
+      ]
+    },
+    {
+      "outputType": "COLLOID",
+      "recipes": [
+        {
+          "duration": 20,
+          "outputAmount": 500,
+          "input1": ["WATER",500],
+          "solidInput": ["item","hbm:item.dust"]
+        }
+      ]
+    },
+    {
+      "outputType": "FISHOIL",
+      "recipes": [
+        {
+          "duration": 50,
+          "outputAmount": 100,
+          "solidInput": ["item","minecraft:fish",1,32767]
+        }
+      ]
+    },
+    {
+      "outputType": "SUNFLOWEROIL",
+      "recipes": [
+        {
+          "duration": 50,
+          "outputAmount": 100,
+          "solidInput": ["item","minecraft:double_plant"]
+        }
+      ]
+    },
+    {
+      "outputType": "NITAN",
+      "recipes": [
+        {
+          "duration": 50,
+          "outputAmount": 1000,
+          "input1": ["KEROSENE",600],
+          "input2": ["MERCURY",200],
+          "solidInput": ["item","hbm:item.powder_nitan_mix"]
+        }
+      ]
+    },
+    {
+      "outputType": "NITRIC_ACID",
+      "recipes": [
+        {
+          "duration": 50,
+          "outputAmount": 500,
+          "input1": ["SULFURIC_ACID",500],
+          "solidInput": ["dict","dustSaltpeter"]
+        }
+      ]
+    },
+    {
+      "outputType": "RADIOSOLVENT",
+      "recipes": [
+        {
+          "duration": 50,
+          "outputAmount": 1000,
+          "input1": ["REFORMGAS",750],
+          "input2": ["CHLORINE",250]
+        }
+      ]
+    },
+    {
+      "outputType": "CHLOROCALCITE_SOLUTION",
+      "recipes": [
+        {
+          "duration": 50,
+          "outputAmount": 500,
+          "input1": ["WATER",250],
+          "input2": ["NITRIC_ACID",250],
+          "solidInput": ["dict","dustChlorocalcite"]
+        }
+      ]
+    },
+    {
+      "outputType": "IONGEL",
+      "recipes": [
+        {
+          "duration": 50,
+          "outputAmount": 1000,
+          "input1": ["WATER",1000],
+          "input2": ["HYDROGEN",200],
+          "solidInput": ["item","hbm:item.pellet_charged"]
+        }
+      ]
+    },
+    {
+      "outputType": "NITROGLYCERIN",
+      "recipes": [
+        {
+          "duration": 20,
+          "outputAmount": 1000,
+          "input1": ["PETROLEUM",1000],
+          "input2": ["NITRIC_ACID",1000]
+        },
+        {
+          "duration": 20,
+          "outputAmount": 1000,
+          "input1": ["FISHOIL",500],
+          "input2": ["NITRIC_ACID",500]
+        }
+      ]
     }
   ]
 }

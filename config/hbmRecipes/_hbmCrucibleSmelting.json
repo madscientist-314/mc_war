@@ -22,6 +22,10 @@
       "output": [["Titanium",144]]
     },
     {
+      "input": ["item","minecraft:coal",1,1],
+      "output": [["Carbon",24]]
+    },
+    {
       "input": ["item","hbm:item.stamp_steel_flat"],
       "output": [["Steel",216]]
     },
@@ -44,6 +48,10 @@
     {
       "input": ["item","hbm:item.hull_big_steel"],
       "output": [["Steel",432]]
+    },
+    {
+      "input": ["item","hbm:tile.stone_resource",1,4],
+      "output": [["Flux",720]]
     },
     {
       "input": ["item","hbm:item.powder_flux"],
@@ -127,7 +135,7 @@
     },
     {
       "input": ["dict","oreCoal"],
-      "output": [["Coal",288],["Stone",162]]
+      "output": [["Carbon",216],["Stone",162]]
     },
     {
       "input": ["dict","oreCobalt"],

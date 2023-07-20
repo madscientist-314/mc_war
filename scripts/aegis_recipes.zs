@@ -9,6 +9,7 @@ recipes.addShaped(
      ]
 ); */
 
+var cable0 = <AegisSystemMod:Cable:0>
 var clearboard = <AegisSystemMod:Clearboard>;
 var electric = <AegisSystemMod:Electric>;
 var weaponController = <AegisSystemMod:Control>;
@@ -24,8 +25,8 @@ var strAntanna = <AegisSystemMod:s>;
 recipies.addShaped(
      weaponController,
      [
-     [],
-     [],
-     []
+     [<minecraft:iron_block>, clearboard, <minecraft:iron_block>],
+     [<minecraft:iron_ingot>, uyk43, <minecraft:iron_ingot>],
+     [<minecraft:redstone_block>, cable0, <minecraft:redstone_block>]
      ]
 );

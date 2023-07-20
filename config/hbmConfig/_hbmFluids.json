@@ -1,0 +1,1157 @@
+{
+  "hbmfluid.none": {},
+  "hbmfluid.water": {
+    "liquid": {},
+    "heatable": {
+      "steps": [
+        {
+          "typeProduced": "hbmfluid.steam",
+          "amountReq": 1,
+          "amountProd": 100,
+          "heatReq": 200
+        },
+        {
+          "typeProduced": "hbmfluid.hotsteam",
+          "amountReq": 1,
+          "amountProd": 10,
+          "heatReq": 220
+        },
+        {
+          "typeProduced": "hbmfluid.superhotsteam",
+          "amountReq": 1,
+          "amountProd": 1,
+          "heatReq": 238
+        },
+        {
+          "typeProduced": "hbmfluid.ultrahotsteam",
+          "amountReq": 10,
+          "amountProd": 1,
+          "heatReq": 2500
+        }
+      ],
+      "BOILER": 1.0,
+      "HEATEXCHANGER": 0.25
+    }
+  },
+  "hbmfluid.heavywater": {
+    "liquid": {}
+  },
+  "hbmfluid.lava": {
+    "liquid": {},
+    "viscous": {}
+  },
+  "hbmfluid.steam": {
+    "gaseous": {},
+    "heatable": {
+      "steps": [
+        {
+          "typeProduced": "hbmfluid.hotsteam",
+          "amountReq": 10,
+          "amountProd": 1,
+          "heatReq": 2
+        }
+      ],
+      "BOILER": 1.0,
+      "HEATEXCHANGER": 0.25
+    },
+    "coolable": {
+      "coolsTo": "hbmfluid.spentsteam",
+      "amountReq": 100,
+      "amountProd": 1,
+      "heatEnergy": 200,
+      "HEATEXCHANGER": 0.5,
+      "TURBINE": 1.0
+    }
+  },
+  "hbmfluid.hotsteam": {
+    "gaseous": {},
+    "heatable": {
+      "steps": [
+        {
+          "typeProduced": "hbmfluid.superhotsteam",
+          "amountReq": 10,
+          "amountProd": 1,
+          "heatReq": 18
+        }
+      ],
+      "BOILER": 1.0,
+      "HEATEXCHANGER": 0.25
+    },
+    "coolable": {
+      "coolsTo": "hbmfluid.steam",
+      "amountReq": 1,
+      "amountProd": 10,
+      "heatEnergy": 2,
+      "HEATEXCHANGER": 0.5,
+      "TURBINE": 1.0
+    }
+  },
+  "hbmfluid.superhotsteam": {
+    "gaseous": {},
+    "heatable": {
+      "steps": [
+        {
+          "typeProduced": "hbmfluid.ultrahotsteam",
+          "amountReq": 10,
+          "amountProd": 1,
+          "heatReq": 120
+        }
+      ],
+      "BOILER": 1.0,
+      "HEATEXCHANGER": 0.25
+    },
+    "coolable": {
+      "coolsTo": "hbmfluid.hotsteam",
+      "amountReq": 1,
+      "amountProd": 10,
+      "heatEnergy": 18,
+      "HEATEXCHANGER": 0.5,
+      "TURBINE": 1.0
+    }
+  },
+  "hbmfluid.ultrahotsteam": {
+    "gaseous": {},
+    "coolable": {
+      "coolsTo": "hbmfluid.superhotsteam",
+      "amountReq": 1,
+      "amountProd": 10,
+      "heatEnergy": 120,
+      "HEATEXCHANGER": 0.5,
+      "TURBINE": 1.0
+    }
+  },
+  "hbmfluid.spentsteam": {
+    "gaseous": {},
+    "nocontainer": {}
+  },
+  "hbmfluid.carbondioxide": {
+    "gaseous": {}
+  },
+  "hbmfluid.coolant": {
+    "liquid": {},
+    "heatable": {
+      "steps": [
+        {
+          "typeProduced": "hbmfluid.coolant_hot",
+          "amountReq": 1,
+          "amountProd": 1,
+          "heatReq": 300
+        }
+      ],
+      "HEATEXCHANGER": 1.0
+    }
+  },
+  "hbmfluid.coolant_hot": {
+    "liquid": {},
+    "coolable": {
+      "coolsTo": "hbmfluid.coolant",
+      "amountReq": 1,
+      "amountProd": 1,
+      "heatEnergy": 300,
+      "HEATEXCHANGER": 1.0
+    }
+  },
+  "hbmfluid.cryogel": {
+    "liquid": {},
+    "viscous": {}
+  },
+  "hbmfluid.mug": {
+    "liquid": {},
+    "delicious": {},
+    "heatable": {
+      "steps": [
+        {
+          "typeProduced": "hbmfluid.mug_hot",
+          "amountReq": 1,
+          "amountProd": 1,
+          "heatReq": 400
+        }
+      ],
+      "HEATEXCHANGER": 1.0
+    }
+  },
+  "hbmfluid.mug_hot": {
+    "liquid": {},
+    "delicious": {},
+    "coolable": {
+      "coolsTo": "hbmfluid.mug",
+      "amountReq": 1,
+      "amountProd": 1,
+      "heatEnergy": 400,
+      "HEATEXCHANGER": 1.0
+    }
+  },
+  "hbmfluid.blood": {
+    "liquid": {},
+    "heatable": {
+      "steps": [
+        {
+          "typeProduced": "hbmfluid.blood_hot",
+          "amountReq": 1,
+          "amountProd": 1,
+          "heatReq": 500
+        }
+      ],
+      "HEATEXCHANGER": 1.0
+    },
+    "viscous": {}
+  },
+  "hbmfluid.blood_hot": {
+    "liquid": {},
+    "coolable": {
+      "coolsTo": "hbmfluid.blood",
+      "amountReq": 1,
+      "amountProd": 1,
+      "heatEnergy": 500,
+      "HEATEXCHANGER": 1.0
+    },
+    "viscous": {}
+  },
+  "hbmfluid.hydrogen": {
+    "liquid": {},
+    "combustible": {
+      "energy": 10000,
+      "grade": "HIGH"
+    },
+    "flammable": {
+      "energy": 5000
+    },
+    "gaseous_art": {}
+  },
+  "hbmfluid.deuterium": {
+    "combustible": {
+      "energy": 10000,
+      "grade": "HIGH"
+    },
+    "flammable": {
+      "energy": 5000
+    },
+    "gaseous": {}
+  },
+  "hbmfluid.tritium": {
+    "combustible": {
+      "energy": 10000,
+      "grade": "HIGH"
+    },
+    "flammable": {
+      "energy": 5000
+    },
+    "gaseous": {},
+    "ventradiation": {
+      "radiation": 0.0010000000474974513
+    }
+  },
+  "hbmfluid.helium3": {
+    "gaseous": {}
+  },
+  "hbmfluid.helium4": {
+    "gaseous": {}
+  },
+  "hbmfluid.oxygen": {
+    "liquid": {},
+    "gaseous_art": {}
+  },
+  "hbmfluid.xenon": {
+    "gaseous": {}
+  },
+  "hbmfluid.chlorine": {
+    "toxin": {
+      "entries": [
+        {
+          "type": "directdamage",
+          "amount": 2.0,
+          "source": "cloud",
+          "delay": 20,
+          "hazmat": false,
+          "masktype": "GAS_CHLORINE"
+        }
+      ]
+    },
+    "corrosive": {
+      "rating": 25
+    },
+    "gaseous": {}
+  },
+  "hbmfluid.mercury": {
+    "liquid": {},
+    "poison": {
+      "level": 2,
+      "withering": false
+    }
+  },
+  "hbmfluid.oil": {
+    "liquid": {},
+    "flammable": {
+      "energy": 25000
+    },
+    "heatable": {
+      "steps": [
+        {
+          "typeProduced": "hbmfluid.hotoil",
+          "amountReq": 1,
+          "amountProd": 1,
+          "heatReq": 10
+        }
+      ],
+      "BOILER": 1.0,
+      "HEATEXCHANGER": 1.0
+    },
+    "viscous": {}
+  },
+  "hbmfluid.crackoil": {
+    "liquid": {},
+    "flammable": {
+      "energy": 31200
+    },
+    "heatable": {
+      "steps": [
+        {
+          "typeProduced": "hbmfluid.hotcrackoil",
+          "amountReq": 1,
+          "amountProd": 1,
+          "heatReq": 10
+        }
+      ],
+      "BOILER": 1.0,
+      "HEATEXCHANGER": 1.0
+    },
+    "viscous": {}
+  },
+  "hbmfluid.coaloil": {
+    "liquid": {},
+    "flammable": {
+      "energy": 1100000
+    },
+    "viscous": {}
+  },
+  "hbmfluid.oil_coker": {
+    "liquid": {},
+    "flammable": {
+      "energy": 31200
+    },
+    "viscous": {}
+  },
+  "hbmfluid.hotoil": {
+    "liquid": {},
+    "flammable": {
+      "energy": 10000
+    },
+    "coolable": {
+      "coolsTo": "hbmfluid.oil",
+      "amountReq": 1,
+      "amountProd": 1,
+      "heatEnergy": 10,
+      "HEATEXCHANGER": 1.0
+    },
+    "viscous": {}
+  },
+  "hbmfluid.hotcrackoil": {
+    "liquid": {},
+    "flammable": {
+      "energy": 10000
+    },
+    "coolable": {
+      "coolsTo": "hbmfluid.crackoil",
+      "amountReq": 1,
+      "amountProd": 1,
+      "heatEnergy": 10,
+      "HEATEXCHANGER": 1.0
+    },
+    "viscous": {}
+  },
+  "hbmfluid.heavyoil": {
+    "liquid": {},
+    "combustible": {
+      "energy": 68700,
+      "grade": "LOW"
+    },
+    "flammable": {
+      "energy": 55000
+    },
+    "viscous": {}
+  },
+  "hbmfluid.heavyoil_vacuum": {
+    "liquid": {},
+    "combustible": {
+      "energy": 234000,
+      "grade": "LOW"
+    },
+    "flammable": {
+      "energy": 187000
+    },
+    "viscous": {}
+  },
+  "hbmfluid.naphtha": {
+    "liquid": {},
+    "combustible": {
+      "energy": 165000,
+      "grade": "MEDIUM"
+    },
+    "flammable": {
+      "energy": 110000
+    },
+    "viscous": {}
+  },
+  "hbmfluid.naphtha_crack": {
+    "liquid": {},
+    "combustible": {
+      "energy": 128000,
+      "grade": "MEDIUM"
+    },
+    "flammable": {
+      "energy": 85900
+    },
+    "viscous": {}
+  },
+  "hbmfluid.naphtha_coker": {
+    "liquid": {},
+    "combustible": {
+      "energy": 187000,
+      "grade": "MEDIUM"
+    },
+    "flammable": {
+      "energy": 125000
+    },
+    "viscous": {}
+  },
+  "hbmfluid.reformate": {
+    "liquid": {},
+    "combustible": {
+      "energy": 6000000,
+      "grade": "HIGH"
+    },
+    "flammable": {
+      "energy": 2400000
+    },
+    "viscous": {}
+  },
+  "hbmfluid.lightoil": {
+    "liquid": {},
+    "combustible": {
+      "energy": 2200000,
+      "grade": "MEDIUM"
+    },
+    "flammable": {
+      "energy": 1460000
+    }
+  },
+  "hbmfluid.lightoil_crack": {
+    "liquid": {},
+    "combustible": {
+      "energy": 1370000,
+      "grade": "MEDIUM"
+    },
+    "flammable": {
+      "energy": 916000
+    }
+  },
+  "hbmfluid.lightoil_vacuum": {
+    "liquid": {},
+    "combustible": {
+      "energy": 4500000,
+      "grade": "MEDIUM"
+    },
+    "flammable": {
+      "energy": 3000000
+    }
+  },
+  "hbmfluid.bitumen": {
+    "liquid": {},
+    "viscous": {}
+  },
+  "hbmfluid.smear": {
+    "liquid": {},
+    "combustible": {
+      "energy": 103000,
+      "grade": "LOW"
+    },
+    "flammable": {
+      "energy": 82500
+    },
+    "viscous": {}
+  },
+  "hbmfluid.heatingoil": {
+    "liquid": {},
+    "combustible": {
+      "energy": 489000,
+      "grade": "LOW"
+    },
+    "flammable": {
+      "energy": 391000
+    },
+    "viscous": {}
+  },
+  "hbmfluid.heatingoil_vacuum": {
+    "liquid": {},
+    "combustible": {
+      "energy": 1640000,
+      "grade": "LOW"
+    },
+    "flammable": {
+      "energy": 1310000
+    },
+    "viscous": {}
+  },
+  "hbmfluid.reclaimed": {
+    "liquid": {},
+    "combustible": {
+      "energy": 141000,
+      "grade": "LOW"
+    },
+    "flammable": {
+      "energy": 113000
+    },
+    "viscous": {}
+  },
+  "hbmfluid.lubricant": {
+    "liquid": {}
+  },
+  "hbmfluid.gas": {
+    "combustible": {
+      "energy": 62500,
+      "grade": "GAS"
+    },
+    "flammable": {
+      "energy": 50000
+    },
+    "gaseous": {}
+  },
+  "hbmfluid.gas_coker": {
+    "combustible": {
+      "energy": 78100,
+      "grade": "GAS"
+    },
+    "flammable": {
+      "energy": 62500
+    },
+    "gaseous": {}
+  },
+  "hbmfluid.petroleum": {
+    "combustible": {
+      "energy": 2060000,
+      "grade": "GAS"
+    },
+    "flammable": {
+      "energy": 1650000
+    },
+    "gaseous": {}
+  },
+  "hbmfluid.sourgas": {
+    "corrosive": {
+      "rating": 10
+    },
+    "flammable": {
+      "energy": 250000
+    },
+    "gaseous": {},
+    "poison": {
+      "level": 1,
+      "withering": false
+    }
+  },
+  "hbmfluid.lpg": {
+    "liquid": {},
+    "combustible": {
+      "energy": 9070000,
+      "grade": "HIGH"
+    },
+    "flammable": {
+      "energy": 3630000
+    }
+  },
+  "hbmfluid.syngas": {
+    "combustible": {
+      "energy": 2060000,
+      "grade": "GAS"
+    },
+    "flammable": {
+      "energy": 1650000
+    },
+    "gaseous": {}
+  },
+  "hbmfluid.oxyhydrogen": {
+    "combustible": {
+      "energy": 15000,
+      "grade": "GAS"
+    },
+    "flammable": {
+      "energy": 5000
+    },
+    "gaseous": {}
+  },
+  "hbmfluid.aromatics": {
+    "liquid": {},
+    "flammable": {
+      "energy": 458000
+    },
+    "viscous": {}
+  },
+  "hbmfluid.unsaturateds": {
+    "flammable": {
+      "energy": 3660000
+    },
+    "gaseous": {}
+  },
+  "hbmfluid.xylene": {
+    "liquid": {},
+    "combustible": {
+      "energy": 7870000,
+      "grade": "HIGH"
+    },
+    "flammable": {
+      "energy": 3150000
+    },
+    "viscous": {}
+  },
+  "hbmfluid.reformgas": {
+    "combustible": {
+      "energy": 13100000,
+      "grade": "GAS"
+    },
+    "flammable": {
+      "energy": 10500000
+    },
+    "gaseous": {}
+  },
+  "hbmfluid.diesel": {
+    "liquid": {},
+    "combustible": {
+      "energy": 1370000,
+      "grade": "HIGH"
+    },
+    "flammable": {
+      "energy": 550000
+    }
+  },
+  "hbmfluid.diesel_reform": {
+    "liquid": {},
+    "combustible": {
+      "energy": 3430000,
+      "grade": "HIGH"
+    },
+    "flammable": {
+      "energy": 1370000
+    }
+  },
+  "hbmfluid.diesel_crack": {
+    "liquid": {},
+    "combustible": {
+      "energy": 1280000,
+      "grade": "HIGH"
+    },
+    "flammable": {
+      "energy": 515000
+    }
+  },
+  "hbmfluid.diesel_crack_reform": {
+    "liquid": {},
+    "combustible": {
+      "energy": 3210000,
+      "grade": "HIGH"
+    },
+    "flammable": {
+      "energy": 1280000
+    }
+  },
+  "hbmfluid.kerosene": {
+    "liquid": {},
+    "combustible": {
+      "energy": 3850000,
+      "grade": "AERO"
+    },
+    "flammable": {
+      "energy": 2560000
+    }
+  },
+  "hbmfluid.kerosene_reform": {
+    "liquid": {},
+    "combustible": {
+      "energy": 9600000,
+      "grade": "AERO"
+    },
+    "flammable": {
+      "energy": 6400000
+    }
+  },
+  "hbmfluid.petroil": {
+    "liquid": {},
+    "combustible": {
+      "energy": 195000,
+      "grade": "MEDIUM"
+    },
+    "flammable": {
+      "energy": 130000
+    }
+  },
+  "hbmfluid.petroil_leaded": {
+    "liquid": {},
+    "combustible": {
+      "energy": 293000,
+      "grade": "MEDIUM"
+    },
+    "flammable": {
+      "energy": 195000
+    },
+    "leaded": {}
+  },
+  "hbmfluid.gasoline": {
+    "liquid": {},
+    "combustible": {
+      "energy": 1510000,
+      "grade": "HIGH"
+    },
+    "flammable": {
+      "energy": 605000
+    }
+  },
+  "hbmfluid.gasoline_leaded": {
+    "liquid": {},
+    "combustible": {
+      "energy": 2260000,
+      "grade": "HIGH"
+    },
+    "flammable": {
+      "energy": 907000
+    },
+    "leaded": {}
+  },
+  "hbmfluid.coalgas": {
+    "liquid": {},
+    "combustible": {
+      "energy": 9520000,
+      "grade": "MEDIUM"
+    },
+    "flammable": {
+      "energy": 6350000
+    }
+  },
+  "hbmfluid.coalgas_leaded": {
+    "liquid": {},
+    "combustible": {
+      "energy": 14200000,
+      "grade": "MEDIUM"
+    },
+    "flammable": {
+      "energy": 9520000
+    },
+    "leaded": {}
+  },
+  "hbmfluid.coalcreosote": {
+    "liquid": {},
+    "flammable": {
+      "energy": 250000
+    },
+    "viscous": {}
+  },
+  "hbmfluid.woodoil": {
+    "liquid": {},
+    "flammable": {
+      "energy": 110000
+    },
+    "viscous": {}
+  },
+  "hbmfluid.biogas": {
+    "combustible": {
+      "energy": 78100,
+      "grade": "GAS"
+    },
+    "flammable": {
+      "energy": 62500
+    },
+    "gaseous": {}
+  },
+  "hbmfluid.biofuel": {
+    "liquid": {},
+    "combustible": {
+      "energy": 1250000,
+      "grade": "HIGH"
+    },
+    "flammable": {
+      "energy": 500000
+    }
+  },
+  "hbmfluid.ethanol": {
+    "liquid": {},
+    "combustible": {
+      "energy": 687000,
+      "grade": "HIGH"
+    },
+    "flammable": {
+      "energy": 275000
+    }
+  },
+  "hbmfluid.fishoil": {
+    "liquid": {},
+    "flammable": {
+      "energy": 75000
+    }
+  },
+  "hbmfluid.sunfloweroil": {
+    "liquid": {},
+    "flammable": {
+      "energy": 50000
+    }
+  },
+  "hbmfluid.nitan": {
+    "liquid": {},
+    "combustible": {
+      "energy": 160000000,
+      "grade": "HIGH"
+    },
+    "flammable": {
+      "energy": 64000000
+    }
+  },
+  "hbmfluid.balefire": {
+    "liquid": {},
+    "combustible": {
+      "energy": 640000000,
+      "grade": "HIGH"
+    },
+    "corrosive": {
+      "rating": 50
+    },
+    "flammable": {
+      "energy": 256000000
+    },
+    "viscous": {}
+  },
+  "hbmfluid.salient": {
+    "liquid": {},
+    "delicious": {},
+    "viscous": {}
+  },
+  "hbmfluid.seedslurry": {
+    "liquid": {},
+    "viscous": {}
+  },
+  "hbmfluid.colloid": {
+    "liquid": {},
+    "viscous": {}
+  },
+  "hbmfluid.iongel": {
+    "liquid": {},
+    "viscous": {}
+  },
+  "hbmfluid.acid": {
+    "liquid": {},
+    "corrosive": {
+      "rating": 40
+    }
+  },
+  "hbmfluid.sulfuric_acid": {
+    "liquid": {},
+    "corrosive": {
+      "rating": 50
+    }
+  },
+  "hbmfluid.nitric_acid": {
+    "liquid": {},
+    "corrosive": {
+      "rating": 60
+    }
+  },
+  "hbmfluid.solvent": {
+    "liquid": {},
+    "corrosive": {
+      "rating": 30
+    },
+    "flammable": {
+      "energy": 100000
+    }
+  },
+  "hbmfluid.radiosolvent": {
+    "liquid": {},
+    "corrosive": {
+      "rating": 50
+    },
+    "flammable": {
+      "energy": 150000
+    },
+    "leadcontainer": {},
+    "ventradiation": {
+      "radiation": 0.009999999776482582
+    }
+  },
+  "hbmfluid.schrabidic": {
+    "liquid": {},
+    "corrosive": {
+      "rating": 75
+    },
+    "ventradiation": {
+      "radiation": 1.0
+    },
+    "poison": {
+      "level": 2,
+      "withering": true
+    }
+  },
+  "hbmfluid.uf6": {
+    "corrosive": {
+      "rating": 15
+    },
+    "gaseous": {},
+    "ventradiation": {
+      "radiation": 0.20000000298023224
+    }
+  },
+  "hbmfluid.puf6": {
+    "corrosive": {
+      "rating": 15
+    },
+    "gaseous": {},
+    "ventradiation": {
+      "radiation": 0.10000000149011612
+    }
+  },
+  "hbmfluid.sas3": {
+    "liquid": {},
+    "corrosive": {
+      "rating": 30
+    },
+    "ventradiation": {
+      "radiation": 1.0
+    }
+  },
+  "hbmfluid.pain": {
+    "liquid": {},
+    "corrosive": {
+      "rating": 30
+    },
+    "poison": {
+      "level": 2,
+      "withering": true
+    },
+    "viscous": {}
+  },
+  "hbmfluid.death": {
+    "liquid": {},
+    "corrosive": {
+      "rating": 80
+    },
+    "leadcontainer": {},
+    "poison": {
+      "level": 4,
+      "withering": true
+    },
+    "viscous": {}
+  },
+  "hbmfluid.watz": {
+    "liquid": {},
+    "corrosive": {
+      "rating": 60
+    },
+    "ventradiation": {
+      "radiation": 0.10000000149011612
+    },
+    "viscous": {}
+  },
+  "hbmfluid.redmud": {
+    "liquid": {},
+    "toxin": {
+      "entries": [
+        {
+          "type": "effects",
+          "effects": [[20,600,2,false]],
+          "hazmat": false,
+          "masktype": "GAS_CORROSIVE"
+        }
+      ]
+    },
+    "corrosive": {
+      "rating": 60
+    },
+    "flammable": {
+      "energy": 1000
+    },
+    "leadcontainer": {},
+    "viscous": {}
+  },
+  "hbmfluid.egg": {
+    "liquid": {}
+  },
+  "hbmfluid.cholesterol": {
+    "liquid": {}
+  },
+  "hbmfluid.chlorocalcite_solution": {
+    "liquid": {},
+    "corrosive": {
+      "rating": 60
+    },
+    "nocontainer": {}
+  },
+  "hbmfluid.chlorocalcite_mix": {
+    "liquid": {},
+    "corrosive": {
+      "rating": 60
+    },
+    "nocontainer": {}
+  },
+  "hbmfluid.chlorocalcite_cleaned": {
+    "liquid": {},
+    "corrosive": {
+      "rating": 60
+    },
+    "nocontainer": {}
+  },
+  "hbmfluid.potassium_chloride": {
+    "liquid": {},
+    "corrosive": {
+      "rating": 60
+    },
+    "nocontainer": {}
+  },
+  "hbmfluid.calcium_chloride": {
+    "liquid": {},
+    "corrosive": {
+      "rating": 60
+    },
+    "nocontainer": {}
+  },
+  "hbmfluid.calcium_solution": {
+    "liquid": {},
+    "corrosive": {
+      "rating": 60
+    },
+    "nocontainer": {}
+  },
+  "hbmfluid.fracksol": {
+    "liquid": {},
+    "corrosive": {
+      "rating": 15
+    },
+    "poison": {
+      "level": 0,
+      "withering": false
+    },
+    "viscous": {}
+  },
+  "hbmfluid.phosgene": {
+    "toxin": {
+      "entries": [
+        {
+          "type": "directdamage",
+          "amount": 4.0,
+          "source": "cloud",
+          "delay": 20,
+          "hazmat": false,
+          "masktype": "GAS_CHLORINE"
+        }
+      ]
+    },
+    "gaseous": {}
+  },
+  "hbmfluid.mustardgas": {
+    "toxin": {
+      "entries": [
+        {
+          "type": "directdamage",
+          "amount": 4.0,
+          "source": "cloud",
+          "delay": 10,
+          "hazmat": false,
+          "masktype": "GAS_CORROSIVE"
+        },
+        {
+          "type": "effects",
+          "effects": [[20,100,1,false],[9,100,0,false]],
+          "hazmat": true,
+          "masktype": "GAS_CORROSIVE"
+        }
+      ]
+    },
+    "gaseous": {}
+  },
+  "hbmfluid.estradiol": {
+    "liquid": {},
+    "toxin": {
+      "entries": [
+        {
+          "type": "effects",
+          "effects": [[73,72000,0,false]],
+          "hazmat": false,
+          "masktype": "PARTICLE_FINE"
+        }
+      ]
+    }
+  },
+  "hbmfluid.nitroglycerin": {
+    "liquid": {}
+  },
+  "hbmfluid.amat": {
+    "amat": {},
+    "gaseous": {}
+  },
+  "hbmfluid.aschrab": {
+    "amat": {},
+    "gaseous": {}
+  },
+  "hbmfluid.wastefluid": {
+    "liquid": {},
+    "nocontainer": {},
+    "ventradiation": {
+      "radiation": 0.5
+    },
+    "viscous": {}
+  },
+  "hbmfluid.wastegas": {
+    "gaseous": {},
+    "nocontainer": {},
+    "ventradiation": {
+      "radiation": 0.5
+    }
+  },
+  "hbmfluid.xpjuice": {
+    "liquid": {},
+    "viscous": {}
+  },
+  "hbmfluid.enderjuice": {
+    "liquid": {},
+    "viscous": {}
+  },
+  "hbmfluid.plasma_dt": {
+    "noid": {},
+    "nocontainer": {},
+    "plasma": {}
+  },
+  "hbmfluid.plasma_hd": {
+    "noid": {},
+    "nocontainer": {},
+    "plasma": {}
+  },
+  "hbmfluid.plasma_ht": {
+    "noid": {},
+    "nocontainer": {},
+    "plasma": {}
+  },
+  "hbmfluid.plasma_dh3": {
+    "noid": {},
+    "nocontainer": {},
+    "plasma": {}
+  },
+  "hbmfluid.plasma_xm": {
+    "noid": {},
+    "nocontainer": {},
+    "plasma": {}
+  },
+  "hbmfluid.plasma_bf": {
+    "noid": {},
+    "nocontainer": {},
+    "plasma": {}
+  },
+  "hbmfluid.smoke": {
+    "noid": {},
+    "gaseous": {},
+    "nocontainer": {}
+  },
+  "hbmfluid.smoke_leaded": {
+    "noid": {},
+    "gaseous": {},
+    "nocontainer": {}
+  },
+  "hbmfluid.smoke_poison": {
+    "noid": {},
+    "gaseous": {},
+    "nocontainer": {}
+  }
+}

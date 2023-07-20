@@ -335,18 +335,50 @@
       ]
     },
     {
-      "id": 83,
-      "name": "TNT",
-      "duration": 150,
+      "id": 97,
+      "name": "LAMINATE",
+      "duration": 100,
       "fluidInput": [
-        ["AROMATICS",500]
+        ["XYLENE",250],
+        ["PHOSGENE",250]
       ],
       "itemInput": [
-        ["dict","dustSaltpeter"]
+        ["item","hbm:tile.reinforced_glass"],
+        ["item","hbm:item.bolt_tungsten",4]
       ],
       "fluidOutput": [],
       "itemOutput": [
-        ["hbm:item.ball_tnt",4]
+        ["hbm:tile.reinforced_laminate"]
+      ]
+    },
+    {
+      "id": 94,
+      "name": "PC",
+      "duration": 100,
+      "fluidInput": [
+        ["XYLENE",500],
+        ["PHOSGENE",500]
+      ],
+      "itemInput": [],
+      "fluidOutput": [],
+      "itemOutput": [
+        ["hbm:item.ingot_pc"]
+      ]
+    },
+    {
+      "id": 96,
+      "name": "PVC",
+      "duration": 100,
+      "fluidInput": [
+        ["UNSATURATEDS",250],
+        ["CHLORINE",250]
+      ],
+      "itemInput": [
+        ["dict","dustCadmium"]
+      ],
+      "fluidOutput": [],
+      "itemOutput": [
+        ["hbm:item.ingot_pvc",2]
       ]
     },
     {
@@ -362,6 +394,37 @@
       "fluidOutput": [],
       "itemOutput": [
         ["hbm:item.ball_dynamite",2]
+      ]
+    },
+    {
+      "id": 83,
+      "name": "TNT",
+      "duration": 150,
+      "fluidInput": [
+        ["AROMATICS",500]
+      ],
+      "itemInput": [
+        ["dict","dustSaltpeter"]
+      ],
+      "fluidOutput": [],
+      "itemOutput": [
+        ["hbm:item.ball_tnt",4]
+      ]
+    },
+    {
+      "id": 95,
+      "name": "TATB",
+      "duration": 50,
+      "fluidInput": [
+        ["SOURGAS",200,1],
+        ["NITRIC_ACID",10]
+      ],
+      "itemInput": [
+        ["item","hbm:item.ball_tnt"]
+      ],
+      "fluidOutput": [],
+      "itemOutput": [
+        ["hbm:item.ball_tatb"]
       ]
     },
     {
@@ -488,7 +551,7 @@
       ],
       "itemInput": [
         ["item","minecraft:gravel",8],
-        ["item","minecraft:sand",8]
+        ["dict","sand",8]
       ],
       "fluidOutput": [],
       "itemOutput": [
@@ -504,7 +567,7 @@
       ],
       "itemInput": [
         ["item","minecraft:gravel",2],
-        ["item","minecraft:sand",2],
+        ["dict","sand",2],
         ["dict","ingotAsbestos",4]
       ],
       "fluidOutput": [],
@@ -520,7 +583,7 @@
         ["WATER",2000]
       ],
       "itemInput": [
-        ["item","minecraft:sand",8],
+        ["dict","sand",8],
         ["dict","billetUranium238",2],
         ["item","minecraft:clay_ball",4]
       ],
@@ -591,16 +654,16 @@
       "name": "SATURN",
       "duration": 60,
       "fluidInput": [
-        ["ACID",100],
-        ["MERCURY",50]
+        ["SULFURIC_ACID",100]
       ],
       "itemInput": [
-        ["item","hbm:item.powder_dura_steel"],
-        ["dict","dustRedPhosphorus"]
+        ["dict","dustDuraSteel",2],
+        ["dict","dustCopper"],
+        ["dict","dustCoal"]
       ],
       "fluidOutput": [],
       "itemOutput": [
-        ["hbm:item.ingot_saturnite",2]
+        ["hbm:item.ingot_saturnite",4]
       ]
     },
     {
@@ -904,7 +967,7 @@
       "name": "OSMIRIDIUM_DEATH",
       "duration": 240,
       "fluidInput": [
-        ["ACID",1000]
+        ["ACID",1000,5]
       ],
       "itemInput": [
         ["item","hbm:item.powder_paleogenite"],
@@ -985,6 +1048,98 @@
       ],
       "fluidOutput": [
         ["ENDERJUICE",100]
+      ],
+      "itemOutput": []
+    },
+    {
+      "id": 98,
+      "name": "SHELL_CHLORINE",
+      "duration": 100,
+      "fluidInput": [
+        ["CHLORINE",4000]
+      ],
+      "itemInput": [
+        ["item","hbm:item.ammo_arty"],
+        ["dict","ingotAnyPlastic"]
+      ],
+      "fluidOutput": [],
+      "itemOutput": [
+        ["hbm:item.ammo_arty",1,9]
+      ]
+    },
+    {
+      "id": 99,
+      "name": "SHELL_PHOSGENE",
+      "duration": 100,
+      "fluidInput": [
+        ["PHOSGENE",4000]
+      ],
+      "itemInput": [
+        ["item","hbm:item.ammo_arty"],
+        ["dict","ingotAnyPlastic"]
+      ],
+      "fluidOutput": [],
+      "itemOutput": [
+        ["hbm:item.ammo_arty",1,10]
+      ]
+    },
+    {
+      "id": 100,
+      "name": "SHELL_MUSTARD",
+      "duration": 100,
+      "fluidInput": [
+        ["MUSTARDGAS",4000]
+      ],
+      "itemInput": [
+        ["item","hbm:item.ammo_arty"],
+        ["dict","ingotAnyPlastic"]
+      ],
+      "fluidOutput": [],
+      "itemOutput": [
+        ["hbm:item.ammo_arty",1,11]
+      ]
+    },
+    {
+      "id": 101,
+      "name": "CC_CENTRIFUGE",
+      "duration": 200,
+      "fluidInput": [
+        ["CHLOROCALCITE_CLEANED",500],
+        ["WATER",1000]
+      ],
+      "itemInput": [],
+      "fluidOutput": [
+        ["POTASSIUM_CHLORIDE",250],
+        ["CALCIUM_CHLORIDE",250]
+      ],
+      "itemOutput": []
+    },
+    {
+      "id": 102,
+      "name": "PC_ELECTROLYSIS",
+      "duration": 200,
+      "fluidInput": [
+        ["POTASSIUM_CHLORIDE",250]
+      ],
+      "itemInput": [],
+      "fluidOutput": [
+        ["CHLORINE",125]
+      ],
+      "itemOutput": [
+        ["hbm:item.dust"]
+      ]
+    },
+    {
+      "id": 103,
+      "name": "CC_ELECTROLYSIS",
+      "duration": 200,
+      "fluidInput": [
+        ["CALCIUM_CHLORIDE",250]
+      ],
+      "itemInput": [],
+      "fluidOutput": [
+        ["CHLORINE",125],
+        ["CALCIUM_SOLUTION",125]
       ],
       "itemOutput": []
     }

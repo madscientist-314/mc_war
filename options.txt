@@ -5,14 +5,14 @@ gamma:1.0
 saturation:0.0
 renderDistance:12
 guiScale:3
-particles:0
+particles:1
 bobView:true
 anaglyph3d:false
 advancedOpengl:true
 maxFps:60
 fboEnable:true
 difficulty:2
-fancyGraphics:true
+fancyGraphics:false
 ao:1
 clouds:false
 resourcePacks:["Dramatic Skys Demo 1.5.3.7.zip"]
@@ -24,12 +24,12 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
-fullscreen:true
-enableVsync:true
+fullscreen:false
+enableVsync:false
 hideServerAddress:false
 advancedItemTooltips:false
 pauseOnLostFocus:true
-showCape:true
+showCape:false
 touchscreen:false
 overrideWidth:0
 overrideHeight:0
@@ -39,7 +39,7 @@ chatHeightUnfocused:0.44366196
 chatScale:1.0
 chatWidth:1.0
 showInventoryAchievementHint:false
-mipmapLevels:4
+mipmapLevels:2
 anisotropicFiltering:1
 streamBytesPerPixel:0.5
 streamMicVolume:1.0
@@ -100,13 +100,14 @@ key_hbm.key.toggleBack:46
 key_hbm.key.toggleHUD:78
 key_hbm.key.reload:77
 key_hbm.key.dash:207
+key_hbm.key.trainInv:34
 key_hbm.key.craneMoveUp:0
 key_hbm.key.craneMoveDown:0
 key_hbm.key.craneMoveLeft:203
 key_hbm.key.craneMoveRight:205
 key_hbm.key.craneLoad:28
 key_key_ironbackpacks_openbackpack:35
-key_key_ironbackpacks_equipbackpack:34
+key_key_ironbackpacks_equipbackpack:21
 key_key.reload:19
 key_key.inspect:25
 key_key.attachment:73
@@ -146,7 +147,7 @@ key_Goggles of Revealing:0
 key_Step Assist:11
 key_Speed:40
 key_Jump:0
-key_Yeta Wrench Mode:21
+key_Yeta Wrench Mode:0
 key_Toggle Electromagnet:0
 key_key.tarmor:0
 key_key.tgoggles:0
