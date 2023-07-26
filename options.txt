@@ -122,8 +122,12 @@ key_key.subtract:209
 key_key.fire_mode:48
 key_key.proning:44
 key_key.attach_laser:54
+key_openblocks.keybind.vario_switch:47
+key_openblocks.keybind.vario_vol_up:0
+key_openblocks.keybind.vario_vol_down:0
 key_oreexcavation.key.excavate:-96
 key_oreexcavation.key.shape:76
+key_Toggle StepUp:36
 key_key.cameraZoomIn:13
 key_key.cameraZoomOut:12
 key_key.cameraEmitRedstone:0
@@ -183,7 +187,7 @@ key_key.cofh.multimode:0
 key_BetterFps:88
 key_key.craftpresence.config_keycode.name:41
 soundCategory_master:0.5033113
-soundCategory_music:0.5
+soundCategory_music:0.0
 soundCategory_record:0.3028169
 soundCategory_weather:0.5
 soundCategory_block:0.5070422
