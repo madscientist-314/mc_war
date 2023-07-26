@@ -3267,7 +3267,7 @@ ThermalFoundation:FluidCoal, Liquifacted Coal
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Enrichment Device)
+ExtraUtilities:endConstructor:0, QED (Quark/Electron Director)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -6022,6 +6022,93 @@ mw:SiliconOre, Silicon Ore
 mw:TantalumOre, Tantalum Ore
 mw:RubyOre, Ruby Ore
 neenergistics:tile.pattern_interface, Pattern Interface
+OpenBlocks:ladder, Jaded Ladder
+OpenBlocks:guide, Building Guide
+OpenBlocks:builder_guide, Enhanced Building Guide
+OpenBlocks:elevator:0, Elevator
+OpenBlocks:elevator:1, Elevator
+OpenBlocks:elevator:2, Elevator
+OpenBlocks:elevator:3, Elevator
+OpenBlocks:elevator:4, Elevator
+OpenBlocks:elevator:5, Elevator
+OpenBlocks:elevator:6, Elevator
+OpenBlocks:elevator:7, Elevator
+OpenBlocks:elevator:8, Elevator
+OpenBlocks:elevator:9, Elevator
+OpenBlocks:elevator:10, Elevator
+OpenBlocks:elevator:11, Elevator
+OpenBlocks:elevator:12, Elevator
+OpenBlocks:elevator:13, Elevator
+OpenBlocks:elevator:14, Elevator
+OpenBlocks:elevator:15, Elevator
+OpenBlocks:elevator_rotating:0, Rotating Elevator
+OpenBlocks:elevator_rotating:1, Rotating Elevator
+OpenBlocks:elevator_rotating:2, Rotating Elevator
+OpenBlocks:elevator_rotating:3, Rotating Elevator
+OpenBlocks:elevator_rotating:4, Rotating Elevator
+OpenBlocks:elevator_rotating:5, Rotating Elevator
+OpenBlocks:elevator_rotating:6, Rotating Elevator
+OpenBlocks:elevator_rotating:7, Rotating Elevator
+OpenBlocks:elevator_rotating:8, Rotating Elevator
+OpenBlocks:elevator_rotating:9, Rotating Elevator
+OpenBlocks:elevator_rotating:10, Rotating Elevator
+OpenBlocks:elevator_rotating:11, Rotating Elevator
+OpenBlocks:elevator_rotating:12, Rotating Elevator
+OpenBlocks:elevator_rotating:13, Rotating Elevator
+OpenBlocks:elevator_rotating:14, Rotating Elevator
+OpenBlocks:elevator_rotating:15, Rotating Elevator
+OpenBlocks:heal, Healer
+OpenBlocks:target, Target
+OpenBlocks:grave, Grave
+OpenBlocks:flag, Flag
+OpenBlocks:tank, Tank
+OpenBlocks:trophy, Trophy
+OpenBlocks:beartrap, Bear Trap
+OpenBlocks:sprinkler, Sprinkler
+OpenBlocks:cannon, Item Cannon
+OpenBlocks:vacuumhopper, Vacuum Hopper
+OpenBlocks:sponge, Sponge
+OpenBlocks:bigbutton, Big Button
+OpenBlocks:imaginary:0, Magic Pencil
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:imaginary:1, Magic Crayon
+OpenBlocks:fan, Fan
+OpenBlocks:xpbottler, XP Bottler
+OpenBlocks:village_highlighter, Village Highlighter
+OpenBlocks:path, Path
+OpenBlocks:autoanvil, Auto Anvil
+OpenBlocks:autoenchantmenttable, Auto Enchantment Table
+OpenBlocks:xpdrain, XP Drain
+OpenBlocks:blockbreaker, Block Breaker
+OpenBlocks:blockPlacer, Block Placer
+OpenBlocks:itemDropper, Item Dropper
+OpenBlocks:ropeladder, Rope Ladder
+OpenBlocks:donationStation, Donation Station
+OpenBlocks:paintmixer, Paint Mixer
+OpenBlocks:canvas, Canvas
+OpenBlocks:paintcan, Paint Can
+OpenBlocks:canvasglass, Glass Canvas
+OpenBlocks:projector, Height Map Projector
+OpenBlocks:drawingtable, Drawing Table
+OpenBlocks:sky:0, Sky Block
+OpenBlocks:sky:1, Sky Block
+OpenBlocks:xpshower, XP Shower
+OpenBlocks:goldenegg, Golden Egg
+OpenBlocks:scaffolding, Scaffolding
 OpenComputers:accessPoint:0, §cAccess Point§7
 OpenComputers:adapter:0, Adapter
 OpenComputers:assembler:0, Electronics Assembler
@@ -6112,6 +6199,7 @@ opensecurity:energyTurretBlock, Energy Turret
 opensecurity:keypadLock, Keypad
 opensecurity:biometricScanner, Biometric Reader
 opensensors:sensor, Sensor Block
+RedstonePasteMod:redstonePaste, Redstone Paste
 SolarFlux:solar1, Solar panel I
 SolarFlux:solar2, Solar panel II
 SolarFlux:solar3, Solar panel III
@@ -8989,6 +9077,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Bauxite Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Silicon Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tantalum Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ruby Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Elevator
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Chamelium
 appliedenergistics2:item.ItemFacade:0, Cable Facade - End Stone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Hard Wall (Tier 1)
@@ -11000,7 +11089,6 @@ EnderIO:itemPowderIngot:4, Tin Powder
 EnderIO:itemPowderIngot:6, Enderium Base
 EnderIO:itemPowderIngot:7, Obsidian Powder
 EnderIO:itemPowderIngot:8, Flour
-EnderIO:bucketXpjuice, XP Bucket
 EnderIO:bucketNutrient_distillation, Nutrient Distillation Bucket
 EnderIO:bucketHootch, Hootch Bucket
 EnderIO:bucketRocket_fuel, Rocket Fuel Bucket
@@ -18019,6 +18107,7 @@ IronChest:diamondCrystalUpgrade, Diamond to Crystal Chest Upgrade
 IronChest:woodIronUpgrade, Wood to Iron Chest Upgrade
 IronChest:woodCopperUpgrade, Wood to Copper Chest Upgrade
 IronChest:diamondObsidianUpgrade, Diamond to Obsidian Chest Upgrade
+je_calculation:itemCalculator, Calculator
 malisisdoors:item.door_acacia, Acacia Door
 malisisdoors:item.door_birch, Birch Door
 malisisdoors:item.door_dark_oak, Dark Oak Door
@@ -18918,6 +19007,72 @@ ae2wct:infinityBoosterIcon, item.null.name
 ae2wct:wirelessCraftingTerminal, Wireless Crafting Terminal
 ae2wct:magnetCard, Magnet Card
 ae2wct:boosterBG, item.boosterBG.name
+OpenBlocks:hangglider, Hang Glider
+OpenBlocks:generic:0, Glider Wing
+OpenBlocks:generic:1, Beam
+OpenBlocks:generic:2, Crane Engine
+OpenBlocks:generic:3, Crane Magnet
+OpenBlocks:generic:5, Line
+OpenBlocks:generic:6, Map Controller Module
+OpenBlocks:generic:7, Map Memory Module
+OpenBlocks:generic:9, Assistant's base
+OpenBlocks:generic:10, Unprepared Stencil
+OpenBlocks:generic:11, Sketching Pencil
+OpenBlocks:luggage, Luggage
+OpenBlocks:sonicglasses, Sonic Glasses
+OpenBlocks:pencilGlasses:0, Pencil Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:crayonGlasses:0, Crayon Glasses
+OpenBlocks:technicolorGlasses:0, Amazing Technicolor Glasses
+OpenBlocks:seriousGlasses:0, Badass Glasses
+OpenBlocks:craneControl, Crane Control
+OpenBlocks:craneBackpack, Crane Backpack
+OpenBlocks:slimalyzer, Slimalyzer
+OpenBlocks:filledbucket:0, XP Bucket
+OpenBlocks:sleepingBag, Sleeping Bag
+OpenBlocks:paintBrush, Paint Brush
+OpenBlocks:stencil:0, Stencil
+OpenBlocks:stencil:1, Stencil
+OpenBlocks:stencil:2, Stencil
+OpenBlocks:stencil:3, Stencil
+OpenBlocks:stencil:4, Stencil
+OpenBlocks:stencil:5, Stencil
+OpenBlocks:stencil:6, Stencil
+OpenBlocks:stencil:7, Stencil
+OpenBlocks:stencil:8, Stencil
+OpenBlocks:stencil:9, Stencil
+OpenBlocks:stencil:10, Stencil
+OpenBlocks:stencil:11, Stencil
+OpenBlocks:stencil:12, Stencil
+OpenBlocks:stencil:13, Stencil
+OpenBlocks:stencil:14, Stencil
+OpenBlocks:squeegee:0, Squeegee
+OpenBlocks:emptyMap, Empty Map
+OpenBlocks:cartographer:0, Cartographer
+OpenBlocks:tastyClay, Tasty Clay
+OpenBlocks:goldenEye, Golden eye
+OpenBlocks:genericUnstackable:0, Pointer
+OpenBlocks:cursor, Cursor
+OpenBlocks:infoBook, World Domination with OpenBlocks
+OpenBlocks:devnull, /dev/null
+OpenBlocks:spongeonastick, Sponge
+OpenBlocks:pedometer, Pedometer
+OpenBlocks:epicEraser, Epic Eraser
+OpenBlocks:wrench, Big Metal Bar
 OpenComputers:item:27, Arithmetic Logic Unit (ALU)
 OpenComputers:item:101, Accelerated Processing Unit (APU) (Tier 2)
 OpenComputers:item:102, Accelerated Processing Unit (APU) (Tier 3)
@@ -19082,6 +19237,8 @@ opensecurity:opensecurity.energyUpgrade, Energy Upgrade
 opensecurity:opensecurity.movementUpgrade, Movement Upgrade
 opensensors:opensensors.worldSensor, World Sensor Card
 opensensors:opensensors.blankSensor, Blank Sensor Card
+RedstonePasteMod:stickyRepeater, Sticky Repeater
+RedstonePasteMod:stickyComparator, Sticky Comparator
 SolarFlux:mirror, Mirror
 SolarFlux:solarCell1, Photovoltaic cell I
 SolarFlux:solarCell2, Photovoltaic cell II
@@ -23030,6 +23187,27 @@ ThermalDynamics:cover:0, Bauxite Ore Cover
 ThermalDynamics:cover:0, Silicon Ore Cover
 ThermalDynamics:cover:0, Tantalum Ore Cover
 ThermalDynamics:cover:0, Ruby Ore Cover
+ThermalDynamics:cover:0, Jaded Ladder Cover
+ThermalDynamics:cover:0, Elevator Cover
+ThermalDynamics:cover:0, Elevator Cover
+ThermalDynamics:cover:0, Elevator Cover
+ThermalDynamics:cover:0, Elevator Cover
+ThermalDynamics:cover:0, Elevator Cover
+ThermalDynamics:cover:0, Elevator Cover
+ThermalDynamics:cover:0, Elevator Cover
+ThermalDynamics:cover:0, Elevator Cover
+ThermalDynamics:cover:0, Elevator Cover
+ThermalDynamics:cover:0, Elevator Cover
+ThermalDynamics:cover:0, Elevator Cover
+ThermalDynamics:cover:0, Elevator Cover
+ThermalDynamics:cover:0, Elevator Cover
+ThermalDynamics:cover:0, Elevator Cover
+ThermalDynamics:cover:0, Elevator Cover
+ThermalDynamics:cover:0, Elevator Cover
+ThermalDynamics:cover:0, Sponge Cover
+ThermalDynamics:cover:0, Path Cover
+ThermalDynamics:cover:0, Rope Ladder Cover
+ThermalDynamics:cover:0, Scaffolding Cover
 ThermalDynamics:cover:0, Robot Cover
 ThermalDynamics:cover:0, Block of Chamelium Cover
 ThermalDynamics:cover:0, End Stone Cover

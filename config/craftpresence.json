@@ -336,7 +336,6 @@
     },
     "languageId": "en_US",
     "stripTranslationColors": false,
-    "showLoggingInChat": false,
     "stripExtraGuiElements": false,
     "renderTooltips": true,
     "configKeyCode": 41
