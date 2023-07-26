@@ -180,8 +180,8 @@
     {
         "splash-text":
         {
-            "posX" : 150,
-            "posY" : -50,
+            "posX" : 180,
+            "posY" : -40,
             "color" : -256,
             "alignment" : "center",
             "texts" : "file:modpack:new_splashes.txt"
